@@ -1,0 +1,18 @@
+# Data (never committed: subject-level research data of the study; see data/README.md)
+data/*
+!data/README.md
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.RData
+*.rds
+
+# R session artefacts
+.Rhistory
+.Rproj.user/
+.Renviron
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,77 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below and cite the article listed under references."
+type: software
+title: "Platelet function by flow cytometry in essential thrombocythemia: aggregation, surface markers and hemogram analysis in R (legacy code, as delivered and cleaned)"
+authors:
+  - family-names: "Esteban Lasso"
+    given-names: "Alfonso"
+    orcid: "https://orcid.org/0009-0006-4029-6178"
+version: "0.1.0"
+date-released: "2026-10-06"
+repository-code: "https://github.com/AlfonsoEstebanLasso/platelet-aggregation-flow-cytometry-r"
+license: MIT
+keywords:
+  - platelet aggregation
+  - flow cytometry
+  - essential thrombocythemia
+  - ANOVA
+  - R
+  - biostatistics
+abstract: "R scripts of a commissioned statistical analysis (2021) of platelet function measured by flow cytometry in essential thrombocythemia. The code fits one way and two way ANOVA models with Tukey HSD comparisons of platelet aggregation responses to agonists, hemogram variables and platelet surface markers across driver genotype groups (MPL, CALR, triple negative and further levels) and treatment groups, with the analysing centre expressed through the choice of input table, together with figures built with ggplot2 (ggpubr contributes only the theme of two subset bar charts in one script). The scripts are published as delivered and cleaned, with paths, centre tokens and two genotype labels replaced by placeholders. No input data are distributed; the expected inputs are documented in data/README.md. Research code only; not a clinical tool."
+references:
+  - type: article
+    title: "Platelet Proteome Links Metabolism to Reactivity in Essential Thrombocythemia"
+    authors:
+      - family-names: "Guerrero-Carreño"
+        given-names: "Xiomara"
+      - family-names: "Smits"
+        given-names: "Sanne"
+      - family-names: "Esteban Lasso"
+        given-names: "Alfonso"
+      - family-names: "Samiotaki"
+        given-names: "Martina"
+      - family-names: "Calabuig-Navarro"
+        given-names: "Virtu"
+      - family-names: "Iborra"
+        given-names: "Francisco José"
+      - family-names: "Rantanen"
+        given-names: "Frida"
+      - family-names: "Álvarez-Larrán"
+        given-names: "Alberto"
+      - family-names: "Angona Figueras"
+        given-names: "Anna"
+      - family-names: "Bellosillo"
+        given-names: "Beatriz"
+      - family-names: "Sáez Marín"
+        given-names: "Adolfo J"
+      - family-names: "García-Gutiérrez"
+        given-names: "Valentín"
+      - family-names: "Dekkers"
+        given-names: "Dick HW"
+      - family-names: "Demmers"
+        given-names: "Jeroen AA"
+      - family-names: "Ferrer-Marín"
+        given-names: "Francisca"
+      - family-names: "Hernández-Boluda"
+        given-names: "Juan Carlos"
+      - family-names: "Matsakas"
+        given-names: "Antonios"
+      - family-names: "Benavente Cuesta"
+        given-names: "Celina"
+      - family-names: "Vandenberghe"
+        given-names: "Peter"
+      - family-names: "Papadopoulos"
+        given-names: "Petros"
+    journal: "Molecular & Cellular Proteomics"
+    year: 2026
+    volume: 25
+    issue: 8
+    start: 101617
+    doi: "10.1016/j.mcpro.2026.101617"
+    identifiers:
+      - type: other
+        value: "PMID:42372951"
+        description: "PubMed identifier"
+      - type: other
+        value: "PMCID:PMC13450191"
+        description: "PubMed Central identifier"
