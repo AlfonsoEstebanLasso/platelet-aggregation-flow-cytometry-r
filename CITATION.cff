@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below and cite the article listed under references."
 type: software
-title: "Platelet function by flow cytometry in essential thrombocythemia: aggregation, surface markers and hemogram analysis in R (legacy code, as delivered and cleaned)"
+title: "Platelet function by flow cytometry in essential thrombocythemia: aggregation, surface markers and hemogram analysis in R (2021 legacy code as delivered and cleaned, and a v1.0 refactored implementation)"
 authors:
   - family-names: "Esteban Lasso"
     given-names: "Alfonso"
