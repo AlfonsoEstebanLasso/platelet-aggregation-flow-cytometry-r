@@ -56,8 +56,10 @@ scripts can run:
    reads every file from the working directory, so run it from the folder that
    holds the files or adjust the paths at the top of the script.
 
-The roadmap for v1.0 includes a synthetic example dataset with the same schema
-so that the scripts can be exercised without any real data.
+v1.0 adds a synthetic example dataset with the same schema under
+`data/synthetic/` (see `data/synthetic/README.md`) so that the v1.0 code can
+be exercised without any real data; the legacy scripts still need the private
+files listed below.
 
 ## Expected files by script
 

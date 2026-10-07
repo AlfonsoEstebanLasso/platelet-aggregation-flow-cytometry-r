@@ -6,8 +6,8 @@ authors:
   - family-names: "Esteban Lasso"
     given-names: "Alfonso"
     orcid: "https://orcid.org/0009-0006-4029-6178"
-version: "0.1.0"
-date-released: "2026-10-06"
+version: "1.0.0"
+date-released: "2026-10-07"
 repository-code: "https://github.com/AlfonsoEstebanLasso/platelet-aggregation-flow-cytometry-r"
 license: MIT
 keywords:
@@ -17,7 +17,8 @@ keywords:
   - ANOVA
   - R
   - biostatistics
-abstract: "R scripts of a commissioned statistical analysis (2021) of platelet function measured by flow cytometry in essential thrombocythemia. The code fits one way and two way ANOVA models with Tukey HSD comparisons of platelet aggregation responses to agonists, hemogram variables and platelet surface markers across driver genotype groups (MPL, CALR, triple negative and further levels) and treatment groups, with the analysing centre expressed through the choice of input table, together with figures built with ggplot2 (ggpubr contributes only the theme of two subset bar charts in one script). The scripts are published as delivered and cleaned, with paths, centre tokens and two genotype labels replaced by placeholders. No input data are distributed; the expected inputs are documented in data/README.md. Research code only; not a clinical tool."
+abstract: "R scripts of a commissioned statistical analysis (2021) of platelet function measured by flow cytometry in essential thrombocythemia. The code fits one way and two way ANOVA models with Tukey HSD comparisons of platelet aggregation responses to agonists, hemogram variables and platelet surface markers across driver genotype groups (MPL, CALR, triple negative and further levels) and treatment groups, with the analysing centre expressed through the choice of input table, together with figures built with ggplot2 (ggpubr contributes only the theme of two subset bar charts in one script). The scripts are published as delivered and cleaned, with paths, centre tokens and two genotype labels replaced by placeholders. No input data are distributed; the expected inputs are documented in data/README.md. Research code only; not a clinical tool. Version 1.0 adds a refactored implementation of the first-centre analysis (type II ANOVA with assumption checks and multiplicity corrections) that runs on synthetic example data generated from the column schema; no patient data."
+
 references:
   - type: article
     title: "Platelet Proteome Links Metabolism to Reactivity in Essential Thrombocythemia"
