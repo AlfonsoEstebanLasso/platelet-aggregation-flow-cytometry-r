@@ -16,3 +16,11 @@ data/*
 # OS
 .DS_Store
 Thumbs.db
+
+# v1.0: synthetic example data and example outputs are committed
+!data/synthetic/
+!data/synthetic/README.md
+!data/synthetic/*.csv
+outputs/*
+!outputs/example/
+!outputs/example/**
