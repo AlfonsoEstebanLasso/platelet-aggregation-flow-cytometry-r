@@ -607,12 +607,9 @@ Reactivity in Essential Thrombocythemia. *Molecular & Cellular Proteomics,
 
 Esteban Lasso, A. (2026). *Platelet function by flow cytometry in essential
 thrombocythemia: aggregation, surface markers and hemogram analysis in R
-(legacy code, as delivered and cleaned)* (v1.0.0) [Computer software].
+(2021 legacy code as delivered and cleaned, and a v1.0 refactored
+implementation)* (v1.0.0) [Computer software].
 <https://github.com/AlfonsoEstebanLasso/platelet-aggregation-flow-cytometry-r>
-
-The citation metadata in `CITATION.cff` and the software citation above
-refer to v0.1.0; v1.0 (this release) will carry its own tag and version in
-`CITATION.cff` when the release is made.
 
 ## Acknowledgements
 
