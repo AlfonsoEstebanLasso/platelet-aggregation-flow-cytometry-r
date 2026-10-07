@@ -1,6 +1,7 @@
 # Platelet function by flow cytometry in essential thrombocythemia: aggregation, surface markers and hemogram analysis in R
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![DOI](https://zenodo.org/badge/1408440827.svg)](https://doi.org/10.5281/zenodo.23211492)
 ![R 4.x](https://img.shields.io/badge/R-4.x-276DC3?style=flat-square&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-figures-1F6FB2?style=flat-square)
 ![ggpubr](https://img.shields.io/badge/ggpubr-theme__pubclean-2C7FB8?style=flat-square)
@@ -608,8 +609,11 @@ Reactivity in Essential Thrombocythemia. *Molecular & Cellular Proteomics,
 Esteban Lasso, A. (2026). *Platelet function by flow cytometry in essential
 thrombocythemia: aggregation, surface markers and hemogram analysis in R
 (2021 legacy code as delivered and cleaned, and a v1.0 refactored
-implementation)* (v1.0.0) [Computer software].
-<https://github.com/AlfonsoEstebanLasso/platelet-aggregation-flow-cytometry-r>
+implementation)* (v1.0.0) [Computer software]. Zenodo.
+<https://doi.org/10.5281/zenodo.23211493>
+
+The DOI <https://doi.org/10.5281/zenodo.23211492> resolves to the latest
+version.
 
 ## Acknowledgements
 
