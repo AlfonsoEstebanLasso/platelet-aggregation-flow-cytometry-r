@@ -1,0 +1,1212 @@
+{
+  "R": {
+    "Version": "4.3.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Packages": {
+    "Deriv": {
+      "Package": "Deriv",
+      "Version": "4.1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "methods"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "MASS": {
+      "Package": "MASS",
+      "Version": "7.3-60",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 4.0)",
+        "grDevices",
+        "graphics",
+        "stats",
+        "utils"
+      ],
+      "Imports": [
+        "methods"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "Matrix": {
+      "Package": "Matrix",
+      "Version": "1.6-1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)",
+        "methods"
+      ],
+      "Imports": [
+        "grDevices",
+        "graphics",
+        "grid",
+        "lattice",
+        "stats",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "MatrixModels": {
+      "Package": "MatrixModels",
+      "Version": "0.5-3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6.0)"
+      ],
+      "Imports": [
+        "stats",
+        "methods",
+        "Matrix (>= 1.6-0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "R6": {
+      "Package": "R6",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "RColorBrewer": {
+      "Package": "RColorBrewer",
+      "Version": "1.1-3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 2.0.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "Rcpp": {
+      "Package": "Rcpp",
+      "Version": "1.0.12",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "methods",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "RcppEigen": {
+      "Package": "RcppEigen",
+      "Version": "0.3.4.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6.0)"
+      ],
+      "Imports": [
+        "Rcpp (>= 0.11.0)",
+        "stats",
+        "utils"
+      ],
+      "LinkingTo": [
+        "Rcpp"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "SparseM": {
+      "Package": "SparseM",
+      "Version": "1.84",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 2.15)",
+        "methods"
+      ],
+      "Imports": [
+        "graphics",
+        "stats",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "abind": {
+      "Package": "abind",
+      "Version": "1.4-5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 1.5.0)"
+      ],
+      "Imports": [
+        "methods",
+        "utils"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "backports": {
+      "Package": "backports",
+      "Version": "1.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.0.0)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "boot": {
+      "Package": "boot",
+      "Version": "1.3-30",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.0.0)",
+        "graphics",
+        "stats"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "brio": {
+      "Package": "brio",
+      "Version": "1.1.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "broom": {
+      "Package": "broom",
+      "Version": "1.0.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5)"
+      ],
+      "Imports": [
+        "backports",
+        "dplyr (>= 1.0.0)",
+        "generics (>= 0.0.2)",
+        "glue",
+        "lifecycle",
+        "purrr",
+        "rlang",
+        "stringr",
+        "tibble (>= 3.0.0)",
+        "tidyr (>= 1.0.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "callr": {
+      "Package": "callr",
+      "Version": "3.7.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4)"
+      ],
+      "Imports": [
+        "processx (>= 3.6.1)",
+        "R6",
+        "utils"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "car": {
+      "Package": "car",
+      "Version": "3.1-2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)",
+        "carData (>= 3.0-0)"
+      ],
+      "Imports": [
+        "abind",
+        "MASS",
+        "mgcv",
+        "nnet",
+        "pbkrtest (>= 0.4-4)",
+        "quantreg",
+        "grDevices",
+        "utils",
+        "stats",
+        "graphics",
+        "lme4 (>= 1.1-27.1)",
+        "nlme",
+        "scales"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "carData": {
+      "Package": "carData",
+      "Version": "3.0-5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "cli": {
+      "Package": "cli",
+      "Version": "3.6.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4)"
+      ],
+      "Imports": [
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "colorspace": {
+      "Package": "colorspace",
+      "Version": "2.1-0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.0.0)",
+        "methods"
+      ],
+      "Imports": [
+        "graphics",
+        "grDevices",
+        "stats"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "cowplot": {
+      "Package": "cowplot",
+      "Version": "1.1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "Imports": [
+        "ggplot2 (>= 3.4.0)",
+        "grid",
+        "gtable",
+        "grDevices",
+        "methods",
+        "rlang",
+        "scales"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "cpp11": {
+      "Package": "cpp11",
+      "Version": "0.4.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "crayon": {
+      "Package": "crayon",
+      "Version": "1.5.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "grDevices",
+        "methods",
+        "utils"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "desc": {
+      "Package": "desc",
+      "Version": "1.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4)"
+      ],
+      "Imports": [
+        "cli",
+        "R6",
+        "utils"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "diffobj": {
+      "Package": "diffobj",
+      "Version": "0.3.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.1.0)"
+      ],
+      "Imports": [
+        "crayon (>= 1.3.2)",
+        "tools",
+        "methods",
+        "utils",
+        "stats"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "digest": {
+      "Package": "digest",
+      "Version": "0.6.36",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.3.0)"
+      ],
+      "Imports": [
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "doBy": {
+      "Package": "doBy",
+      "Version": "4.6.22",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 4.2.0)",
+        "methods"
+      ],
+      "Imports": [
+        "boot",
+        "broom",
+        "cowplot",
+        "Deriv",
+        "dplyr",
+        "ggplot2",
+        "MASS",
+        "Matrix",
+        "modelr",
+        "microbenchmark",
+        "rlang",
+        "tibble",
+        "tidyr"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "Imports": [
+        "cli (>= 3.4.0)",
+        "generics",
+        "glue (>= 1.3.2)",
+        "lifecycle (>= 1.0.3)",
+        "magrittr (>= 1.5)",
+        "methods",
+        "pillar (>= 1.9.0)",
+        "R6",
+        "rlang (>= 1.1.0)",
+        "tibble (>= 3.2.0)",
+        "tidyselect (>= 1.2.0)",
+        "utils",
+        "vctrs (>= 0.6.4)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "evaluate": {
+      "Package": "evaluate",
+      "Version": "0.24.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 4.0.0)"
+      ],
+      "Imports": [
+        "methods"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "fansi": {
+      "Package": "fansi",
+      "Version": "1.0.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.1.0)"
+      ],
+      "Imports": [
+        "grDevices",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "farver": {
+      "Package": "farver",
+      "Version": "2.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "NeedsCompilation": "yes"
+    },
+    "fs": {
+      "Package": "fs",
+      "Version": "1.6.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "methods"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "generics": {
+      "Package": "generics",
+      "Version": "0.1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.2)"
+      ],
+      "Imports": [
+        "methods"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "3.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5)"
+      ],
+      "Imports": [
+        "cli",
+        "glue",
+        "grDevices",
+        "grid",
+        "gtable (>= 0.1.1)",
+        "isoband",
+        "lifecycle (> 1.0.1)",
+        "MASS",
+        "mgcv",
+        "rlang (>= 1.1.0)",
+        "scales (>= 1.3.0)",
+        "stats",
+        "tibble",
+        "vctrs (>= 0.6.0)",
+        "withr (>= 2.5.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "glue": {
+      "Package": "glue",
+      "Version": "1.7.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "methods"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "gtable": {
+      "Package": "gtable",
+      "Version": "0.3.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5)"
+      ],
+      "Imports": [
+        "cli",
+        "glue",
+        "grid",
+        "lifecycle",
+        "rlang (>= 1.1.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "isoband": {
+      "Package": "isoband",
+      "Version": "0.2.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "grid",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "jsonlite": {
+      "Package": "jsonlite",
+      "Version": "1.8.8",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "methods"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "labeling": {
+      "Package": "labeling",
+      "Version": "0.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "stats",
+        "graphics"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "lattice": {
+      "Package": "lattice",
+      "Version": "0.22-6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 4.0.0)"
+      ],
+      "Imports": [
+        "grid",
+        "grDevices",
+        "graphics",
+        "stats",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "lifecycle": {
+      "Package": "lifecycle",
+      "Version": "1.0.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "cli (>= 3.4.0)",
+        "glue",
+        "rlang (>= 1.1.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "lme4": {
+      "Package": "lme4",
+      "Version": "1.1-35.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6.0)",
+        "Matrix",
+        "methods",
+        "stats"
+      ],
+      "Imports": [
+        "graphics",
+        "grid",
+        "splines",
+        "utils",
+        "parallel",
+        "MASS",
+        "lattice",
+        "boot",
+        "nlme (>= 3.1-123)",
+        "minqa (>= 1.1.15)",
+        "nloptr (>= 1.0.4)"
+      ],
+      "LinkingTo": [
+        "Rcpp (>= 0.10.5)",
+        "RcppEigen (>= 0.3.3.9.4)",
+        "Matrix (>= 1.2-3)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "magrittr": {
+      "Package": "magrittr",
+      "Version": "2.0.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4.0)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "mgcv": {
+      "Package": "mgcv",
+      "Version": "1.9-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6.0)",
+        "nlme (>= 3.1-64)"
+      ],
+      "Imports": [
+        "methods",
+        "stats",
+        "graphics",
+        "Matrix",
+        "splines",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "microbenchmark": {
+      "Package": "microbenchmark",
+      "Version": "1.4.10",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "graphics",
+        "stats"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "minqa": {
+      "Package": "minqa",
+      "Version": "1.2.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "Rcpp (>= 0.9.10)"
+      ],
+      "LinkingTo": [
+        "Rcpp"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "modelr": {
+      "Package": "modelr",
+      "Version": "0.1.11",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.2)"
+      ],
+      "Imports": [
+        "broom",
+        "magrittr",
+        "purrr (>= 0.2.2)",
+        "rlang (>= 1.0.6)",
+        "tibble",
+        "tidyr (>= 0.8.0)",
+        "tidyselect",
+        "vctrs"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "munsell": {
+      "Package": "munsell",
+      "Version": "0.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "colorspace",
+        "methods"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "nlme": {
+      "Package": "nlme",
+      "Version": "3.1-165",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6.0)"
+      ],
+      "Imports": [
+        "graphics",
+        "stats",
+        "utils",
+        "lattice"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "nloptr": {
+      "Package": "nloptr",
+      "Version": "2.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "NeedsCompilation": "yes"
+    },
+    "nnet": {
+      "Package": "nnet",
+      "Version": "7.3-19",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.0.0)",
+        "stats",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "numDeriv": {
+      "Package": "numDeriv",
+      "Version": "2016.8-1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 2.11.1)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "pbkrtest": {
+      "Package": "pbkrtest",
+      "Version": "0.5.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 4.2.0)",
+        "lme4 (>= 1.1.31)"
+      ],
+      "Imports": [
+        "broom",
+        "dplyr",
+        "MASS",
+        "methods",
+        "numDeriv",
+        "Matrix (>= 1.2.3)",
+        "doBy"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "pillar": {
+      "Package": "pillar",
+      "Version": "1.9.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "cli (>= 2.3.0)",
+        "fansi",
+        "glue",
+        "lifecycle",
+        "rlang (>= 1.0.2)",
+        "utf8 (>= 1.1.0)",
+        "utils",
+        "vctrs (>= 0.5.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "pkgbuild": {
+      "Package": "pkgbuild",
+      "Version": "1.4.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5)"
+      ],
+      "Imports": [
+        "callr (>= 3.2.0)",
+        "cli (>= 3.4.0)",
+        "desc",
+        "processx",
+        "R6"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "pkgconfig": {
+      "Package": "pkgconfig",
+      "Version": "2.0.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "utils"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "pkgload": {
+      "Package": "pkgload",
+      "Version": "1.4.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4.0)"
+      ],
+      "Imports": [
+        "cli (>= 3.3.0)",
+        "desc",
+        "fs",
+        "glue",
+        "lifecycle",
+        "methods",
+        "pkgbuild",
+        "processx",
+        "rlang (>= 1.1.1)",
+        "rprojroot",
+        "utils",
+        "withr (>= 2.4.3)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "praise": {
+      "Package": "praise",
+      "Version": "1.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "NeedsCompilation": "no"
+    },
+    "processx": {
+      "Package": "processx",
+      "Version": "3.8.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4.0)"
+      ],
+      "Imports": [
+        "ps (>= 1.2.0)",
+        "R6",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "ps": {
+      "Package": "ps",
+      "Version": "1.7.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4)"
+      ],
+      "Imports": [
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "purrr": {
+      "Package": "purrr",
+      "Version": "1.0.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "Imports": [
+        "cli (>= 3.6.1)",
+        "lifecycle (>= 1.0.3)",
+        "magrittr (>= 1.5.0)",
+        "rlang (>= 1.1.1)",
+        "vctrs (>= 0.6.3)"
+      ],
+      "LinkingTo": [
+        "cli"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "quantreg": {
+      "Package": "quantreg",
+      "Version": "5.98",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5)",
+        "stats",
+        "SparseM"
+      ],
+      "Imports": [
+        "methods",
+        "graphics",
+        "Matrix",
+        "MatrixModels",
+        "survival",
+        "MASS"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "rematch2": {
+      "Package": "rematch2",
+      "Version": "2.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "tibble"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "renv": {
+      "Package": "renv",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Imports": [
+        "utils"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "rlang": {
+      "Package": "rlang",
+      "Version": "1.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "Imports": [
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "rprojroot": {
+      "Package": "rprojroot",
+      "Version": "2.0.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.0.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "scales": {
+      "Package": "scales",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "cli",
+        "farver (>= 2.0.3)",
+        "glue",
+        "labeling",
+        "lifecycle",
+        "munsell (>= 0.5)",
+        "R6",
+        "RColorBrewer",
+        "rlang (>= 1.0.0)",
+        "viridisLite"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "stringi": {
+      "Package": "stringi",
+      "Version": "1.8.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4)"
+      ],
+      "Imports": [
+        "tools",
+        "utils",
+        "stats"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "stringr": {
+      "Package": "stringr",
+      "Version": "1.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "cli",
+        "glue (>= 1.6.1)",
+        "lifecycle (>= 1.0.3)",
+        "magrittr",
+        "rlang (>= 1.0.0)",
+        "stringi (>= 1.5.3)",
+        "vctrs (>= 0.4.0)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "survival": {
+      "Package": "survival",
+      "Version": "3.7-0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "Imports": [
+        "graphics",
+        "Matrix",
+        "methods",
+        "splines",
+        "stats",
+        "utils"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "testthat": {
+      "Package": "testthat",
+      "Version": "3.2.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6.0)"
+      ],
+      "Imports": [
+        "brio (>= 1.1.3)",
+        "callr (>= 3.7.3)",
+        "cli (>= 3.6.1)",
+        "desc (>= 1.4.2)",
+        "digest (>= 0.6.33)",
+        "evaluate (>= 0.21)",
+        "jsonlite (>= 1.8.7)",
+        "lifecycle (>= 1.0.3)",
+        "magrittr (>= 2.0.3)",
+        "methods",
+        "pkgload (>= 1.3.2.1)",
+        "praise (>= 1.0.0)",
+        "processx (>= 3.8.2)",
+        "ps (>= 1.7.5)",
+        "R6 (>= 2.5.1)",
+        "rlang (>= 1.1.1)",
+        "utils",
+        "waldo (>= 0.5.1)",
+        "withr (>= 2.5.0)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "tibble": {
+      "Package": "tibble",
+      "Version": "3.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4.0)"
+      ],
+      "Imports": [
+        "fansi (>= 0.4.0)",
+        "lifecycle (>= 1.0.0)",
+        "magrittr",
+        "methods",
+        "pillar (>= 1.8.1)",
+        "pkgconfig",
+        "rlang (>= 1.0.2)",
+        "utils",
+        "vctrs (>= 0.4.2)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "tidyr": {
+      "Package": "tidyr",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "cli (>= 3.4.1)",
+        "dplyr (>= 1.0.10)",
+        "glue",
+        "lifecycle (>= 1.0.3)",
+        "magrittr",
+        "purrr (>= 1.0.1)",
+        "rlang (>= 1.1.1)",
+        "stringr (>= 1.5.0)",
+        "tibble (>= 2.1.1)",
+        "tidyselect (>= 1.2.0)",
+        "utils",
+        "vctrs (>= 0.5.2)"
+      ],
+      "LinkingTo": [
+        "cpp11 (>= 0.4.0)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "tidyselect": {
+      "Package": "tidyselect",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.4)"
+      ],
+      "Imports": [
+        "cli (>= 3.3.0)",
+        "glue (>= 1.3.0)",
+        "lifecycle (>= 1.0.3)",
+        "rlang (>= 1.0.4)",
+        "vctrs (>= 0.5.2)",
+        "withr"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "utf8": {
+      "Package": "utf8",
+      "Version": "1.2.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 2.10)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "vctrs": {
+      "Package": "vctrs",
+      "Version": "0.6.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "Imports": [
+        "cli (>= 3.4.0)",
+        "glue",
+        "lifecycle (>= 1.0.3)",
+        "rlang (>= 1.1.0)"
+      ],
+      "NeedsCompilation": "yes"
+    },
+    "viridisLite": {
+      "Package": "viridisLite",
+      "Version": "0.4.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 2.10)"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "waldo": {
+      "Package": "waldo",
+      "Version": "0.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "cli",
+        "diffobj (>= 0.3.4)",
+        "fansi",
+        "glue",
+        "methods",
+        "rematch2",
+        "rlang (>= 1.0.0)",
+        "tibble"
+      ],
+      "NeedsCompilation": "no"
+    },
+    "withr": {
+      "Package": "withr",
+      "Version": "3.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Depends": [
+        "R (>= 3.5.0)"
+      ],
+      "Imports": [
+        "graphics",
+        "grDevices"
+      ],
+      "NeedsCompilation": "no"
+    }
+  }
+}
