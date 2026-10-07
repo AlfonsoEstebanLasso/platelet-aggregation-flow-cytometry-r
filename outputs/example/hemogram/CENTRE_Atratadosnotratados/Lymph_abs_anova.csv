@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","term","sum_sq","df","f_value","p_raw","p_holm","p_bh","family_size"
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","ok",73,"Genotype",0.664740522964365,7,0.263110426097711,0.965926308305062,1,0.999593011605789,14
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","ok",73,"Residuals",23.4600759153918,65,,,,,

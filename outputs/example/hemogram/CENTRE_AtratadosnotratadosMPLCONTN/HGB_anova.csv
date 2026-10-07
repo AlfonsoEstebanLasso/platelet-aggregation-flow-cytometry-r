@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","term","sum_sq","df","f_value","p_raw","p_holm","p_bh","family_size"
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","ok",72,"Genotype",11.829630952381,6,1.14639364196859,0.345981820317743,1,0.605468185556051,14
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","ok",72,"Residuals",111.789119047619,65,,,,,

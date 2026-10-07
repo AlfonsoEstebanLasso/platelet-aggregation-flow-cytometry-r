@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","test","statistic","p_value","note"
+"markers","CENTRE_Atratadosnotratados","CD49B","ok_aliased",72,"shapiro_residuals",0.967603557682296,0.0601946125090102,""
+"markers","CENTRE_Atratadosnotratados","CD49B","ok_aliased",72,"levene_cells",1.32243008650615,0.226922130984479,""

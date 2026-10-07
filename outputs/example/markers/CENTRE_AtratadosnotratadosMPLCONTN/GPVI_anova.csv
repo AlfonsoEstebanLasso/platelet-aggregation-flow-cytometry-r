@@ -1,0 +1,5 @@
+"panel","variant","measure","status","n","term","sum_sq","df","f_value","p_raw","p_holm","p_bh","family_size"
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","ok_aliased",73,"Genotype",246129.078426398,6,1.7971253881984,0.114641094259446,1,0.687846565556673,30
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","ok_aliased",73,"Treatment",7792.88801790099,1,0.341401275962076,0.561176244426365,1,0.863439582971855,30
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","ok_aliased",73,"Genotype:Treatment",102439.817738285,4,1.12195518544718,0.354520464995556,1,0.836662381849247,30
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","ok_aliased",73,"Residuals",1392397.16592262,61,,,,,

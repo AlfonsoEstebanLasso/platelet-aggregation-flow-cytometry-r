@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","term","sum_sq","df","f_value","p_raw","p_holm","p_bh","family_size"
+"hemogram","CENTRE_Atratadosnotratados","Eos.","ok",73,"Genotype",50.3764400789469,7,1.86908276514814,0.0891207449174069,1,0.623845214421849,14
+"hemogram","CENTRE_Atratadosnotratados","Eos.","ok",73,"Residuals",250.273148962149,65,,,,,

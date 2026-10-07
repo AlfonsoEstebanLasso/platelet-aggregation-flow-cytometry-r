@@ -1,0 +1,21 @@
+"panel","variant","group","Treatment","level","n"
+"hemogram","CENTRE_ATNCONMPL","Genotype","Untreated","TN",7
+"hemogram","CENTRE_ATNCONMPL","Genotype","Untreated","MPL W515",2
+"hemogram","CENTRE_ATNCONMPL","Genotype","Untreated","CALR Type_Other",1
+"hemogram","CENTRE_ATNCONMPL","Genotype","Untreated","CALR Type I",4
+"hemogram","CENTRE_ATNCONMPL","Genotype","Untreated","JAK2 V617F",1
+"hemogram","CENTRE_ATNCONMPL","Genotype","Untreated","CNTRL",14
+"hemogram","CENTRE_ATNCONMPL","Genotype","ASA","TN",6
+"hemogram","CENTRE_ATNCONMPL","Genotype","ASA","MPL W515",3
+"hemogram","CENTRE_ATNCONMPL","Genotype","ASA","CALR Type_Other",1
+"hemogram","CENTRE_ATNCONMPL","Genotype","ASA","CALR Type II",3
+"hemogram","CENTRE_ATNCONMPL","Genotype","ASA","JAK2 V617F",10
+"hemogram","CENTRE_ATNCONMPL","Genotype","Anagrelide","TN",5
+"hemogram","CENTRE_ATNCONMPL","Genotype","Anagrelide","CALR Type_Other",1
+"hemogram","CENTRE_ATNCONMPL","Genotype","Anagrelide","CALR Type II",1
+"hemogram","CENTRE_ATNCONMPL","Genotype","Anagrelide","CALR Type I",2
+"hemogram","CENTRE_ATNCONMPL","Genotype","Anagrelide","JAK2 V617F",3
+"hemogram","CENTRE_ATNCONMPL","Genotype","HU","TN",3
+"hemogram","CENTRE_ATNCONMPL","Genotype","HU","CALR Type II",2
+"hemogram","CENTRE_ATNCONMPL","Genotype","HU","CALR Type I",3
+"hemogram","CENTRE_ATNCONMPL","Genotype","HU","JAK2 V617F",3

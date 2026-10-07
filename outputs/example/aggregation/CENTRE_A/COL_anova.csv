@@ -1,0 +1,5 @@
+"panel","variant","measure","status","n","term","sum_sq","df","f_value","p_raw","p_holm","p_bh","family_size"
+"aggregation","CENTRE_A","COL","ok_aliased",71,"Genotype",1342.93921363077,7,0.832516225922782,0.565825751250196,1,0.995202214787008,27
+"aggregation","CENTRE_A","COL","ok_aliased",71,"Treatment",326.796233990219,3,0.47270498228592,0.702762279018096,1,0.995202214787008,27
+"aggregation","CENTRE_A","COL","ok_aliased",71,"Genotype:Treatment",756.984833012582,13,0.252684275771743,0.995202214787008,1,0.995202214787008,27
+"aggregation","CENTRE_A","COL","ok_aliased",71,"Residuals",10830.8730766667,47,,,,,

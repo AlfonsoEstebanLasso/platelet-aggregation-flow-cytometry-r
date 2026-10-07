@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","test","statistic","p_value","note"
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"shapiro_residuals",0.977866914672947,0.227114964393815,""
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"levene_cells",1.30948192788057,0.217201792699084,""

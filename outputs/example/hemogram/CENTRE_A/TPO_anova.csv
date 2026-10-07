@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","term","sum_sq","df","f_value","p_raw","p_holm","p_bh","family_size"
+"hemogram","CENTRE_A","TPO..pg.ml.","ok",28,"Genotype",4094.9797857143,7,0.0586907298888838,0.999593011605789,1,0.999593011605789,14
+"hemogram","CENTRE_A","TPO..pg.ml.","ok",28,"Residuals",199349.067,20,,,,,

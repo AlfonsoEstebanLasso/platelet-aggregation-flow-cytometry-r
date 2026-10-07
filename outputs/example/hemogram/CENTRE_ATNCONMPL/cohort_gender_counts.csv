@@ -1,0 +1,11 @@
+"panel","variant","group","Treatment","level","n"
+"hemogram","CENTRE_ATNCONMPL","Gender","Untreated","(missing)",1
+"hemogram","CENTRE_ATNCONMPL","Gender","Untreated","M",10
+"hemogram","CENTRE_ATNCONMPL","Gender","Untreated","F",18
+"hemogram","CENTRE_ATNCONMPL","Gender","ASA","M",5
+"hemogram","CENTRE_ATNCONMPL","Gender","ASA","F",18
+"hemogram","CENTRE_ATNCONMPL","Gender","Anagrelide","M",5
+"hemogram","CENTRE_ATNCONMPL","Gender","Anagrelide","F",7
+"hemogram","CENTRE_ATNCONMPL","Gender","HU","(missing)",1
+"hemogram","CENTRE_ATNCONMPL","Gender","HU","M",5
+"hemogram","CENTRE_ATNCONMPL","Gender","HU","F",5

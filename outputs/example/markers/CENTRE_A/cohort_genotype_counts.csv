@@ -1,0 +1,25 @@
+"panel","variant","group","Treatment","level","n"
+"markers","CENTRE_A","Genotype","Untreated","VARIANT",1
+"markers","CENTRE_A","Genotype","Untreated","TN",6
+"markers","CENTRE_A","Genotype","Untreated","MPL W515",2
+"markers","CENTRE_A","Genotype","Untreated","CALR Type_Other",1
+"markers","CENTRE_A","Genotype","Untreated","CALR Type I",4
+"markers","CENTRE_A","Genotype","Untreated","JAK2 V617F",1
+"markers","CENTRE_A","Genotype","Untreated","CNTRL",14
+"markers","CENTRE_A","Genotype","ASA","VARIANT",2
+"markers","CENTRE_A","Genotype","ASA","TN",4
+"markers","CENTRE_A","Genotype","ASA","MPL W515",3
+"markers","CENTRE_A","Genotype","ASA","CALR Type_Other",1
+"markers","CENTRE_A","Genotype","ASA","CALR Type II",3
+"markers","CENTRE_A","Genotype","ASA","JAK2 V617F",10
+"markers","CENTRE_A","Genotype","Anagrelide","VARIANT",3
+"markers","CENTRE_A","Genotype","Anagrelide","TN",2
+"markers","CENTRE_A","Genotype","Anagrelide","CALR Type_Other",1
+"markers","CENTRE_A","Genotype","Anagrelide","CALR Type II",1
+"markers","CENTRE_A","Genotype","Anagrelide","CALR Type I",2
+"markers","CENTRE_A","Genotype","Anagrelide","JAK2 V617F",3
+"markers","CENTRE_A","Genotype","HU","VARIANT",1
+"markers","CENTRE_A","Genotype","HU","TN",2
+"markers","CENTRE_A","Genotype","HU","CALR Type II",2
+"markers","CENTRE_A","Genotype","HU","CALR Type I",3
+"markers","CENTRE_A","Genotype","HU","JAK2 V617F",3

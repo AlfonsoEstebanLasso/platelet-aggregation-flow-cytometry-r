@@ -1,0 +1,531 @@
+"panel","variant","measure","status","n","term","comparison","diff","lwr","upr","p_adj"
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","JAK2 V617F-CNTRL",0.0983173076922981,-23.2835126001484,23.480147215533,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type I-CNTRL",11.0321367521367,-16.1215982268313,38.1858717311047,0.898604958652456
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type II-CNTRL",-3.7243076923077,-36.6769875910381,29.2283722064227,0.999957981630907
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type_Other-CNTRL",6.97102564102564,-33.1376990496003,47.0797503316516,0.999259629804484
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","MPL W515-CNTRL",3.1656923076923,-29.7869875910381,36.1183722064227,0.999986125570723
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","TN-CNTRL",1.80769230769231,-22.7537851237584,26.369169739143,0.999997781306801
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","VARIANT-CNTRL",0.736263736263737,-28.6203167773272,30.0928442498546,0.999999998767577
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type I-JAK2 V617F",10.9338194444444,-15.157733202563,37.0253720914519,0.883076679947899
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type II-JAK2 V617F",-3.822625,-35.9056876457594,28.2604376457594,0.999939906532402
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type_Other-JAK2 V617F",6.87270833333334,-32.524672195478,46.2700888621447,0.999241639114512
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","MPL W515-JAK2 V617F",3.06737500000001,-29.0156876457594,35.1504376457594,0.999986574621727
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","TN-JAK2 V617F",1.70937500000001,-21.6724549078407,25.0912049078407,0.999997881729382
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","VARIANT-JAK2 V617F",0.637946428571439,-27.7390269067664,29.0149197639093,0.999999999426374
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type II-CALR Type I",-14.7564444444444,-49.6840590523812,20.1711701634924,0.878681828338365
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type_Other-CALR Type I",-4.0611111111111,-45.807595346323,37.6853731241008,0.99998488197347
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","MPL W515-CALR Type I",-7.86644444444443,-42.7940590523812,27.0611701634924,0.996149900933868
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","TN-CALR Type I",-9.22444444444443,-36.3781794234124,17.9292905345236,0.958454558991951
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","VARIANT-CALR Type I",-10.295873015873,-41.8532488437728,21.2615028120268,0.966519272094267
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","CALR Type_Other-CALR Type II",10.6953333333333,-35.0356488909854,56.4263155576521,0.995143054711366
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","MPL W515-CALR Type II",6.89,-32.7141923462746,46.4941923462746,0.999254953456367
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","TN-CALR Type II",5.532,-27.4206798987304,38.4846798987304,0.999409580476362
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","VARIANT-CALR Type II",4.46057142857143,-32.2057858808679,41.1269287380107,0.999930830810529
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","MPL W515-CALR Type_Other",-3.80533333333334,-49.5363155576521,41.9256488909854,0.999994826266579
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","TN-CALR Type_Other",-5.16333333333333,-45.2720580239593,34.9453913572926,0.999898721725795
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","VARIANT-CALR Type_Other",-6.2347619047619,-49.4464783962843,36.9769545867605,0.999782737182546
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","TN-MPL W515",-1.358,-34.3106798987304,31.5946798987304,0.999999960497616
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","VARIANT-MPL W515",-2.42942857142857,-39.0957858808679,34.2369287380107,0.999998927497752
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype","VARIANT-TN",-1.07142857142857,-30.4280090850195,28.2851519421623,0.999999983068237
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Treatment","ASA-Untreated",-4.60197002551021,-19.7837018111145,10.5797617600941,0.850658756542878
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Treatment","Anagrelide-Untreated",-3.2129524002783,-21.9270496843606,15.501144883804,0.96787686700663
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Treatment","HU-Untreated",1.58050503117914,-17.1335922529031,20.2946023152614,0.995930128668223
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Treatment","Anagrelide-ASA",1.38901762523191,-18.1850433451905,20.9630785956543,0.997571456963188
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Treatment","HU-ASA",6.18247505668934,-13.3915859137331,25.7565360271117,0.834518892785973
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Treatment","HU-Anagrelide",4.79345743145743,-17.6314465822029,27.2183614451178,0.940708895400793
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Untreated-CNTRL:Untreated",27.4776923076925,-54.9961647765243,109.951549391909,0.999944871306962
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Untreated-CNTRL:Untreated",12.1376923076923,-33.3031897613514,57.5785743767359,0.999999469093581
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Untreated-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Untreated-CNTRL:Untreated",16.7676923076923,-65.7061647765245,99.2415493919091,0.999999999291479
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Untreated-CNTRL:Untreated",-16.3173076923077,-76.6819900509333,44.0473746663179,0.999999305470831
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Untreated-CNTRL:Untreated",4.99269230769231,-34.2314506682571,44.2168352836417,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Untreated-CNTRL:Untreated",24.1876923076923,-58.2861647765246,106.661549391909,0.999995861938764
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-CNTRL:Untreated",-6.40675213675214,-40.8689025560317,28.0553982825274,0.99999999993152
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-CNTRL:Untreated",-25.5473076923077,-85.9119900509333,34.8173746663179,0.996696434523664
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-CNTRL:Untreated",2.65769230769232,-79.8161647765245,85.1315493919091,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CNTRL:Untreated",16.154358974359,-34.7496107551989,67.0583287039168,0.999978827966483
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CNTRL:Untreated",-0.642307692307675,-46.0831897613513,44.798574376736,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CNTRL:Untreated",8.03269230769232,-52.3319900509333,68.3973746663179,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CNTRL:Untreated",8.83102564102565,-42.0729440885322,59.7349953705835,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CNTRL:Untreated",-0.762307692307694,-61.1269900509333,59.6023746663179,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CNTRL:Untreated",5.4176923076923,-77.0561647765245,87.8915493919091,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CNTRL:Untreated",1.48769230769231,-80.9861647765245,83.9615493919091,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CNTRL:Untreated",6.27769230769233,-76.1961647765245,88.7515493919092,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CNTRL:Untreated",-8.70564102564101,-59.6096107551989,42.1983287039168,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:Untreated",1.75435897435893,-49.1496107551989,52.6583287039168,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CNTRL:Untreated",17.4210256410257,-33.4829440885322,68.3249953705835,0.999908095602914
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CNTRL:Untreated",13.5276923076923,-46.8369900509332,73.8923746663179,0.999999991741944
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CNTRL:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CNTRL:Untreated",-5.0823076923077,-65.4469900509333,55.2823746663179,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CNTRL:Untreated",-8.98230769230766,-91.4561647765245,73.4915493919092,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Untreated-JAK2 V617F:Untreated",-15.3400000000002,-104.194406560537,73.5144065605365,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Untreated-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Untreated-JAK2 V617F:Untreated",-10.7100000000002,-123.102921949562,101.682921949561,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Untreated-JAK2 V617F:Untreated",-43.7950000000002,-141.130125613882,53.5401256138818,0.992113446611897
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Untreated-JAK2 V617F:Untreated",-22.4850000000002,-108.326512068522,63.3565120685214,0.999999659763046
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Untreated-JAK2 V617F:Untreated",-3.29000000000022,-115.682921949562,109.102921949561,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-JAK2 V617F:Untreated",-33.8844444444446,-117.657182334127,49.888293445238,0.998345839887796
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-JAK2 V617F:Untreated",-53.0250000000002,-150.360125613882,44.3101256138818,0.927454968018946
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-JAK2 V617F:Untreated",-24.8200000000002,-137.212921949562,87.5729219495614,0.999999994263109
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-JAK2 V617F:Untreated",-11.3233333333335,-103.091769825627,80.4451031589603,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-JAK2 V617F:Untreated",-28.1200000000002,-116.974406560537,60.7344065605366,0.999979973094314
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-JAK2 V617F:Untreated",-19.4450000000002,-116.780125613882,77.8901256138818,0.999999999549239
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-JAK2 V617F:Untreated",-18.6466666666668,-110.415103158961,73.121769825627,0.999999999301846
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-JAK2 V617F:Untreated",-28.2400000000002,-125.575125613882,69.0951256138818,0.999996713892837
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-JAK2 V617F:Untreated",-22.0600000000002,-134.452921949562,90.3329219495614,0.999999999714918
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-JAK2 V617F:Untreated",-25.9900000000002,-138.382921949562,86.4029219495614,0.999999982155281
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-JAK2 V617F:Untreated",-21.2000000000002,-133.592921949562,91.1929219495614,0.99999999989941
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-JAK2 V617F:Untreated",-36.1833333333335,-127.951769825627,55.5851031589603,0.998899483434091
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-JAK2 V617F:Untreated",-25.7233333333336,-117.491769825627,66.0451031589603,0.999998444404394
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:Untreated",-10.0566666666668,-101.825103158961,81.711769825627,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:Untreated",-13.9500000000001,-111.285125613882,83.3851256138818,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-JAK2 V617F:Untreated",-32.5600000000002,-129.895125613882,64.7751256138818,0.999940426504002
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-JAK2 V617F:Untreated",-36.4600000000002,-148.852921949562,75.9329219495614,0.999967225059358
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Untreated-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Untreated-CALR Type I:Untreated",4.63000000000002,-84.2244065605367,93.4844065605368,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Untreated-CALR Type I:Untreated",-28.455,-97.2813273692203,40.3713273692204,0.997677283213215
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Untreated-CALR Type I:Untreated",-7.14499999999997,-58.4451155464103,44.1551155464104,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Untreated-CALR Type I:Untreated",12.05,-76.8044065605367,100.904406560537,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-CALR Type I:Untreated",-18.5444444444444,-66.3022529619882,29.2133640730994,0.999143250670522
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-CALR Type I:Untreated",-37.685,-106.51132736922,31.1413273692204,0.923853594796921
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type I:Untreated",-9.47999999999997,-98.3344065605367,79.3744065605368,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CALR Type I:Untreated",4.01666666666669,-56.6824486242918,64.7157819576252,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CALR Type I:Untreated",-12.78,-68.9764609747808,43.4164609747808,0.999999988137943
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CALR Type I:Untreated",-4.10499999999997,-72.9313273692203,64.7213273692204,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type I:Untreated",-3.30666666666664,-64.0057819576251,57.3924486242918,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type I:Untreated",-12.9,-81.7263273692203,55.9263273692204,0.999999999914972
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type I:Untreated",-6.71999999999998,-95.5744065605367,82.1344065605367,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type I:Untreated",-10.65,-99.5044065605367,78.2044065605368,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type I:Untreated",-5.85999999999996,-94.7144065605367,82.9944065605368,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type I:Untreated",-20.8433333333333,-81.5424486242918,39.8557819576252,0.999902094901386
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type I:Untreated",-10.3833333333334,-71.0824486242918,50.3157819576251,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type I:Untreated",5.28333333333337,-55.4157819576251,65.9824486242919,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type I:Untreated",1.39000000000006,-67.4363273692203,70.2163273692204,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type I:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type I:Untreated",-17.22,-86.0463273692203,51.6063273692204,0.999999882445071
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type I:Untreated",-21.1199999999999,-109.974406560537,67.7344065605368,0.99999996524575
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Untreated-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Untreated-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Untreated-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Untreated-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type II:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Untreated-CALR Type_Other:Untreated",-33.085,-130.420125613882,64.250125613882,0.999919187323888
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Untreated-CALR Type_Other:Untreated",-11.775,-97.6165120685216,74.0665120685216,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Untreated-CALR Type_Other:Untreated",7.41999999999996,-104.972921949562,119.812921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-CALR Type_Other:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-CALR Type_Other:Untreated",-23.1744444444444,-106.947182334127,60.5982934452382,0.999998836899946
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-CALR Type_Other:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-CALR Type_Other:Untreated",-42.315,-139.650125613882,55.020125613882,0.995116044351047
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type_Other:Untreated",-14.11,-126.502921949562,98.2829219495616,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CALR Type_Other:Untreated",-0.61333333333333,-92.3817698256271,91.1551031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CALR Type_Other:Untreated",-17.41,-106.264406560537,71.4444065605367,0.999999999727391
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CALR Type_Other:Untreated",-8.73499999999999,-106.070125613882,88.600125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type_Other:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type_Other:Untreated",-7.93666666666666,-99.7051031589605,83.8317698256272,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type_Other:Untreated",-17.53,-114.865125613882,79.805125613882,0.999999999970632
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type_Other:Untreated",-11.35,-123.742921949562,101.042921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type_Other:Untreated",-15.28,-127.672921949562,97.1129219495616,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type_Other:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type_Other:Untreated",-10.49,-122.882921949562,101.902921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type_Other:Untreated",-25.4733333333333,-117.241769825627,66.2951031589605,0.999998745474331
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type_Other:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type_Other:Untreated",-15.0133333333334,-106.781769825627,76.7551031589604,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type_Other:Untreated",0.65333333333335,-91.1151031589605,92.4217698256272,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type_Other:Untreated",-3.23999999999997,-100.575125613882,94.095125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type_Other:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type_Other:Untreated",-21.85,-119.185125613882,75.485125613882,0.9999999913862
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type_Other:Untreated",-25.75,-138.142921949562,86.6429219495616,0.999999985774983
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Untreated-MPL W515:Untreated",21.31,-43.580083742588,86.200083742588,0.999958310787615
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Untreated-MPL W515:Untreated",40.505,-56.830125613882,137.840125613882,0.997434527254073
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-MPL W515:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-MPL W515:Untreated",9.91055555555556,-52.216969644177,72.0380807552881,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-MPL W515:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-MPL W515:Untreated",-9.23000000000001,-88.7037972679054,70.2437972679053,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-MPL W515:Untreated",18.975,-78.360125613882,116.310125613882,0.999999999761244
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-MPL W515:Untreated",32.4716666666667,-40.0776524903737,105.020985823707,0.992659396573691
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-MPL W515:Untreated",15.675,-53.1513273692203,84.5013273692204,0.999999987706955
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-MPL W515:Untreated",24.35,-55.1237972679053,103.823797267905,0.999989646022003
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-MPL W515:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-MPL W515:Untreated",25.1483333333333,-47.400985823707,97.6976524903737,0.999883271629111
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-MPL W515:Untreated",15.555,-63.9187972679053,95.0287972679054,0.999999999735023
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-MPL W515:Untreated",21.735,-75.600125613882,119.070125613882,0.999999992440316
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-MPL W515:Untreated",17.805,-79.530125613882,115.140125613882,0.999999999955426
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-MPL W515:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-MPL W515:Untreated",22.595,-74.7401256138819,119.930125613882,0.999999980396667
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-MPL W515:Untreated",7.61166666666669,-64.9376524903737,80.160985823707,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-MPL W515:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-MPL W515:Untreated",18.0716666666666,-54.4776524903737,90.620985823707,0.999999894003759
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-MPL W515:Untreated",33.7383333333334,-38.810985823707,106.287652490374,0.987786860932938
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-MPL W515:Untreated",29.845,-49.6287972679053,109.318797267905,0.999511879039461
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-MPL W515:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-MPL W515:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-MPL W515:Untreated",11.235,-68.2387972679054,90.7087972679054,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-MPL W515:Untreated",7.33500000000004,-90.0001256138819,104.670125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Untreated-TN:Untreated",19.195,-66.6465120685216,105.036512068522,0.999999992176961
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-TN:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-TN:Untreated",-11.3994444444444,-53.2858133892858,30.4869245003969,0.999999191450371
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-TN:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-TN:Untreated",-30.54,-95.430083742588,34.350083742588,0.985766271928856
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-TN:Untreated",-2.33499999999999,-88.1765120685216,83.5065120685216,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-TN:Untreated",11.1616666666667,-45.0347943081141,67.3581276414475,0.999999999612068
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-TN:Untreated",-5.63499999999998,-56.9351155464103,45.6651155464103,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-TN:Untreated",3.04000000000001,-61.850083742588,67.930083742588,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-TN:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-TN:Untreated",3.83833333333334,-52.3581276414475,60.0347943081141,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-TN:Untreated",-5.755,-70.645083742588,59.135083742588,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-TN:Untreated",0.42499999999999,-85.4165120685216,86.2665120685216,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-TN:Untreated",-3.505,-89.3465120685216,82.3365120685216,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-TN:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-TN:Untreated",1.28500000000002,-84.5565120685216,87.1265120685216,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-TN:Untreated",-13.6983333333333,-69.8947943081141,42.4981276414475,0.999999936487673
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-TN:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-TN:Untreated",-3.23833333333338,-59.4347943081142,52.9581276414474,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-TN:Untreated",12.4283333333333,-43.7681276414474,68.6247943081141,0.999999994048542
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-TN:Untreated",8.53500000000003,-56.3550837425879,73.425083742588,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-TN:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-TN:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-TN:Untreated",-10.075,-74.965083742588,54.815083742588,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-TN:Untreated",-13.975,-99.8165120685216,71.8665120685216,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:ASA-VARIANT:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-VARIANT:Untreated",-30.5944444444444,-114.367182334127,53.1782934452382,0.999699463211353
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-VARIANT:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-VARIANT:Untreated",-49.735,-147.070125613882,47.600125613882,0.962435130849999
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-VARIANT:Untreated",-21.53,-133.922921949562,90.8629219495616,0.999999999849039
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-VARIANT:Untreated",-8.03333333333329,-99.8017698256271,83.7351031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-VARIANT:Untreated",-24.8299999999999,-113.684406560537,64.0244065605368,0.999998546111589
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-VARIANT:Untreated",-16.155,-113.490125613882,81.180125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-VARIANT:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-VARIANT:Untreated",-15.3566666666666,-107.12510315896,76.4117698256272,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-VARIANT:Untreated",-24.95,-122.285125613882,72.385125613882,0.999999793211831
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-VARIANT:Untreated",-18.77,-131.162921949562,93.6229219495616,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-VARIANT:Untreated",-22.7,-135.092921949562,89.6929219495616,0.999999999402246
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-VARIANT:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-VARIANT:Untreated",-17.9099999999999,-130.302921949562,94.4829219495617,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-VARIANT:Untreated",-32.8933333333333,-124.661769825627,58.8751031589605,0.999784679088399
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-VARIANT:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-VARIANT:Untreated",-22.4333333333333,-114.201769825627,69.3351031589605,0.999999932022942
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-VARIANT:Untreated",-6.76666666666661,-98.5351031589604,85.0017698256272,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-VARIANT:Untreated",-10.6599999999999,-107.995125613882,86.675125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-VARIANT:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-VARIANT:Untreated",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-VARIANT:Untreated",-29.27,-126.605125613882,68.065125613882,0.99999297950399
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-VARIANT:Untreated",-33.1699999999999,-145.562921949562,79.2229219495617,0.99999527089866
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:ASA-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CNTRL:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:ASA-JAK2 V617F:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-JAK2 V617F:ASA",-19.1405555555556,-81.2680807552882,42.986969644177,0.99998840088191
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-JAK2 V617F:ASA",9.06444444444445,-74.7082934452382,92.8371823341271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-JAK2 V617F:ASA",22.5611111111111,-30.4214204008258,75.543642623048,0.996383038623871
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-JAK2 V617F:ASA",5.76444444444446,-41.9933640730993,53.5222529619883,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-JAK2 V617F:ASA",14.4394444444445,-47.6880807552881,76.566969644177,0.999999979812873
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-JAK2 V617F:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-JAK2 V617F:ASA",15.2377777777778,-37.7447537341591,68.2203092897147,0.999997278777574
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-JAK2 V617F:ASA",5.64444444444445,-56.4830807552881,67.771969644177,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-JAK2 V617F:ASA",11.8244444444444,-71.9482934452382,95.5971823341271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-JAK2 V617F:ASA",7.89444444444445,-75.8782934452382,91.6671823341271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-JAK2 V617F:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-JAK2 V617F:ASA",12.6844444444445,-71.0882934452382,96.4571823341271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-JAK2 V617F:ASA",-2.29888888888888,-55.2814204008258,50.683642623048,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-JAK2 V617F:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-JAK2 V617F:ASA",8.16111111111107,-44.8214204008258,61.143642623048,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:ASA",23.8277777777778,-29.1547537341591,76.8103092897147,0.992163668763137
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:ASA",19.9344444444445,-42.1930807552881,82.0619696441771,0.999973617088752
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-JAK2 V617F:ASA",1.32444444444444,-60.8030807552881,63.451969644177,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-JAK2 V617F:ASA",-2.57555555555552,-86.3482934452382,81.1971823341271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:ASA-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type I:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type II:ASA",28.205,-69.1301256138819,125.540125613882,0.99999680022258
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CALR Type II:ASA",41.7016666666667,-30.8476524903737,114.250985823707,0.882105603404061
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CALR Type II:ASA",24.905,-43.9213273692203,93.7313273692204,0.99974484046204
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CALR Type II:ASA",33.58,-45.8937972679053,113.053797267905,0.996775141444426
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type II:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type II:ASA",34.3783333333334,-38.170985823707,106.927652490374,0.984490508749907
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type II:ASA",24.785,-54.6887972679053,104.258797267905,0.999985117044736
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type II:ASA",30.965,-66.370125613882,128.300125613882,0.999977762448309
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type II:ASA",27.035,-70.300125613882,124.370125613882,0.999998728493853
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type II:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type II:ASA",31.825,-65.5101256138819,129.160125613882,0.999961738505327
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type II:ASA",16.8416666666667,-55.7076524903736,89.390985823707,0.999999980386804
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type II:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type II:ASA",27.3016666666666,-45.2476524903737,99.850985823707,0.999494088103697
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type II:ASA",42.9683333333334,-29.580985823707,115.517652490374,0.84938376194063
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type II:ASA",39.0750000000001,-40.3987972679053,118.548797267905,0.975730447218186
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type II:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type II:ASA",20.465,-59.0087972679053,99.9387972679054,0.999999770131783
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type II:ASA",16.565,-80.7701256138819,113.900125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:ASA-CALR Type_Other:ASA",13.4966666666667,-78.2717698256272,105.26510315896,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-CALR Type_Other:ASA",-3.29999999999999,-92.1544065605367,85.5544065605367,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-CALR Type_Other:ASA",5.375,-91.960125613882,102.710125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type_Other:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type_Other:ASA",6.17333333333333,-85.5951031589605,97.9417698256271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type_Other:ASA",-3.42000000000001,-100.755125613882,93.915125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type_Other:ASA",2.75999999999998,-109.632921949562,115.152921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type_Other:ASA",-1.17000000000001,-113.562921949562,111.222921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type_Other:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type_Other:ASA",3.62000000000001,-108.772921949562,116.012921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type_Other:ASA",-11.3633333333333,-103.131769825627,80.4051031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type_Other:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type_Other:ASA",-0.903333333333386,-92.6717698256272,90.8651031589604,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type_Other:ASA",14.7633333333333,-77.0051031589605,106.531769825627,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type_Other:ASA",10.87,-86.465125613882,108.205125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type_Other:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type_Other:ASA",-7.74000000000002,-105.075125613882,89.5951256138819,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type_Other:ASA",-11.64,-124.032921949562,100.752921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:ASA-MPL W515:ASA",-16.7966666666667,-77.4957819576251,43.9024486242918,0.999998828920507
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-MPL W515:ASA",-8.12166666666666,-80.670985823707,64.4276524903737,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-MPL W515:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-MPL W515:ASA",-7.32333333333333,-72.2134170759213,57.5667504092546,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-MPL W515:ASA",-16.9166666666667,-89.465985823707,55.6326524903737,0.999999978148833
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-MPL W515:ASA",-10.7366666666667,-102.50510315896,81.0317698256271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-MPL W515:ASA",-14.6666666666667,-106.43510315896,77.1017698256271,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-MPL W515:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-MPL W515:ASA",-9.87666666666665,-101.64510315896,81.8917698256272,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-MPL W515:ASA",-24.86,-89.750083742588,40.030083742588,0.999315165384617
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-MPL W515:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-MPL W515:ASA",-14.4,-79.290083742588,50.4900837425879,0.999999993522546
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-MPL W515:ASA",1.26666666666668,-63.6234170759213,66.1567504092547,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-MPL W515:ASA",-2.62666666666664,-75.175985823707,69.9226524903737,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-MPL W515:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-MPL W515:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-MPL W515:ASA",-21.2366666666667,-93.785985823707,51.3126524903737,0.99999602614861
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-MPL W515:ASA",-25.1366666666666,-116.90510315896,66.6317698256272,0.999999066130892
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:ASA-TN:ASA",8.67499999999999,-60.1513273692204,77.5013273692203,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-TN:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-TN:ASA",9.47333333333332,-51.2257819576252,70.1724486242918,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-TN:ASA",-0.120000000000019,-68.9463273692204,68.7063273692203,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-TN:ASA",6.05999999999997,-82.7944065605368,94.9144065605367,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-TN:ASA",2.12999999999998,-86.7244065605367,90.9844065605367,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-TN:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-TN:ASA",6.92,-81.9344065605367,95.7744065605367,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-TN:ASA",-8.06333333333334,-68.7624486242918,52.6357819576251,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-TN:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-TN:ASA",2.3966666666666,-58.3024486242919,63.0957819576251,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-TN:ASA",18.0633333333333,-42.6357819576251,78.7624486242918,0.999994362587466
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-TN:ASA",14.17,-54.6563273692203,82.9963273692204,0.99999999902207
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-TN:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-TN:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-TN:ASA",-4.44000000000003,-73.2663273692204,64.3863273692203,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-TN:ASA",-8.33999999999999,-97.1944065605367,80.5144065605367,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:Anagrelide-VARIANT:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-VARIANT:ASA",0.798333333333332,-71.750985823707,73.3476524903737,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-VARIANT:ASA",-8.79500000000001,-88.2687972679054,70.6787972679053,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-VARIANT:ASA",-2.61500000000002,-99.950125613882,94.7201256138819,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-VARIANT:ASA",-6.54500000000001,-103.880125613882,90.790125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-VARIANT:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-VARIANT:ASA",-1.75499999999999,-99.090125613882,95.580125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-VARIANT:ASA",-16.7383333333333,-89.2876524903737,55.810985823707,0.999999983119177
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-VARIANT:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-VARIANT:ASA",-6.27833333333339,-78.8276524903737,66.270985823707,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-VARIANT:ASA",9.38833333333334,-63.160985823707,81.9376524903737,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-VARIANT:ASA",5.49500000000003,-73.9787972679053,84.9687972679054,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-VARIANT:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-VARIANT:ASA",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-VARIANT:ASA",-13.115,-92.5887972679054,66.3587972679053,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-VARIANT:ASA",-17.015,-114.350125613882,80.320125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:Anagrelide-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CNTRL:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:Anagrelide-JAK2 V617F:Anagrelide",-9.59333333333334,-82.1426524903737,62.955985823707,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-JAK2 V617F:Anagrelide",-3.41333333333335,-95.1817698256272,88.3551031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-JAK2 V617F:Anagrelide",-7.34333333333334,-99.1117698256272,84.4251031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-JAK2 V617F:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-JAK2 V617F:Anagrelide",-2.55333333333332,-94.3217698256271,89.2151031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-JAK2 V617F:Anagrelide",-17.5366666666667,-82.4267504092546,47.3534170759213,0.999999308941737
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-JAK2 V617F:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-JAK2 V617F:Anagrelide",-7.07666666666672,-71.9667504092547,57.8134170759213,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:Anagrelide",8.59000000000001,-56.300083742588,73.480083742588,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:Anagrelide",4.69666666666669,-67.8526524903737,77.245985823707,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-JAK2 V617F:Anagrelide",-13.9133333333333,-86.4626524903737,58.635985823707,0.999999999844482
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-JAK2 V617F:Anagrelide",-17.8133333333333,-109.581769825627,73.9551031589605,0.999999999786488
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type I:Anagrelide",6.17999999999999,-91.155125613882,103.515125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type I:Anagrelide",2.25,-95.085125613882,99.585125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type I:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type I:Anagrelide",7.04000000000002,-90.295125613882,104.375125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type I:Anagrelide",-7.94333333333332,-80.4926524903737,64.605985823707,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type I:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type I:Anagrelide",2.51666666666662,-70.0326524903737,75.065985823707,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type I:Anagrelide",18.1833333333334,-54.365985823707,90.7326524903737,0.999999877509822
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type I:Anagrelide",14.29,-65.1837972679053,93.7637972679054,0.999999999971877
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type I:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type I:Anagrelide",-4.32000000000001,-83.7937972679054,75.1537972679053,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type I:Anagrelide",-8.21999999999997,-105.555125613882,89.115125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type II:Anagrelide",-3.92999999999999,-116.322921949562,108.462921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type II:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type II:Anagrelide",0.860000000000028,-111.532921949562,113.252921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type II:Anagrelide",-14.1233333333333,-105.891769825627,77.6451031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type II:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type II:Anagrelide",-3.66333333333337,-95.4317698256272,88.1051031589604,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type II:Anagrelide",12.0033333333334,-79.7651031589605,103.771769825627,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type II:Anagrelide",8.11000000000004,-89.2251256138819,105.445125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type II:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type II:Anagrelide",-10.5,-107.835125613882,86.835125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type II:Anagrelide",-14.4,-126.792921949562,97.9929219495616,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type_Other:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-CALR Type_Other:Anagrelide",4.79000000000002,-107.602921949562,117.182921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-CALR Type_Other:Anagrelide",-10.1933333333333,-101.961769825627,81.5751031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-CALR Type_Other:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CALR Type_Other:Anagrelide",0.266666666666623,-91.5017698256272,92.0351031589604,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CALR Type_Other:Anagrelide",15.9333333333334,-75.8351031589605,107.701769825627,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type_Other:Anagrelide",12.04,-85.2951256138819,109.375125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type_Other:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type_Other:Anagrelide",-6.57000000000001,-103.905125613882,90.765125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type_Other:Anagrelide",-10.47,-122.862921949562,101.922921949562,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:Anagrelide-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-MPL W515:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:Anagrelide-TN:Anagrelide",-14.9833333333333,-106.751769825627,76.7851031589605,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-TN:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-TN:Anagrelide",-4.5233333333334,-96.2917698256272,87.2451031589604,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-TN:Anagrelide",11.1433333333333,-80.6251031589605,102.911769825627,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-TN:Anagrelide",7.25000000000001,-90.085125613882,104.585125613882,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-TN:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-TN:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-TN:Anagrelide",-11.36,-108.695125613882,85.9751256138819,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-TN:Anagrelide",-15.26,-127.652921949562,97.1329219495616,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CNTRL:HU-VARIANT:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-VARIANT:Anagrelide",10.4599999999999,-54.430083742588,75.3500837425879,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-VARIANT:Anagrelide",26.1266666666667,-38.7634170759213,91.0167504092547,0.998461240147699
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-VARIANT:Anagrelide",22.2333333333334,-50.315985823707,94.7826524903737,0.999989598582647
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-VARIANT:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-VARIANT:Anagrelide",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-VARIANT:Anagrelide",3.62333333333331,-68.925985823707,76.1726524903737,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-VARIANT:Anagrelide",-0.27666666666665,-92.0451031589605,91.4917698256272,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-CNTRL:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CNTRL:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CNTRL:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CNTRL:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CNTRL:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:HU",15.6666666666667,-49.2234170759212,80.5567504092547,0.99999994945331
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:HU",11.7733333333334,-60.7759858237069,84.3226524903738,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-JAK2 V617F:HU",-6.83666666666663,-79.385985823707,65.7126524903737,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-JAK2 V617F:HU",-10.7366666666666,-102.50510315896,81.0317698256272,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type II:HU-CALR Type I:HU",-3.89333333333332,-76.4426524903737,68.655985823707,1
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type I:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type I:HU",-22.5033333333334,-95.0526524903737,50.045985823707,0.999986673030632
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type I:HU",-26.4033333333333,-118.171769825627,65.3651031589605,0.999997254803512
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type II:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type II:HU",-18.61,-98.0837972679054,60.8637972679053,0.999999975781245
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type II:HU",-22.51,-119.845125613882,74.825125613882,0.99999998211658
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-CALR Type_Other:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-CALR Type_Other:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","TN:HU-MPL W515:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-MPL W515:HU",,,,
+"aggregation","CENTRE_A","PMA","ok_aliased",71,"Genotype:Treatment","VARIANT:HU-TN:HU",-3.89999999999996,-101.235125613882,93.435125613882,1

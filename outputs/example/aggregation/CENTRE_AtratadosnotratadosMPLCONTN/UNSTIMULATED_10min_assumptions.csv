@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","test","statistic","p_value","note"
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","ok_aliased",75,"shapiro_residuals",0.969268221878882,0.0649865875830501,""
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","ok_aliased",75,"levene_cells",0.405933225271308,0.948347444045731,""

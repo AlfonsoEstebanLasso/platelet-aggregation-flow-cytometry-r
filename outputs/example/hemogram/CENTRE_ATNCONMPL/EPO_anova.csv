@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","term","sum_sq","df","f_value","p_raw","p_holm","p_bh","family_size"
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","ok",28,"Genotype",478.954707792208,5,0.812305073765046,0.553538875306809,1,0.747949155589458,14
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","ok",28,"Residuals",2594.34636363636,22,,,,,

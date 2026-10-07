@@ -1,0 +1,13 @@
+"panel","variant","group","Treatment","level","n"
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Untreated","TN",7
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Untreated","MPL W515",2
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Untreated","CALR Type_Other",1
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Untreated","CALR Type I",4
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Untreated","JAK2 V617F",1
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Untreated","CNTRL",14
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Treated","TN",14
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Treated","MPL W515",3
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Treated","CALR Type_Other",2
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Treated","CALR Type II",6
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Treated","CALR Type I",5
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Genotype","Treated","JAK2 V617F",16

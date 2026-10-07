@@ -1,0 +1,114 @@
+"panel","variant","measure","status","n","term","comparison","diff","lwr","upr","p_adj"
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","JAK2 V617F-CNTRL",-20.0092436974792,-913.132959903917,873.114472508958,0.999999990494035
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type I-CNTRL",-554.985714285714,-1612.28490292358,502.31347435215,0.682551517401915
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type II-CNTRL",41.5309523809519,-1165.98981400504,1249.05171876694,0.999999876118588
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type_Other-CNTRL",-32.9523809523807,-1607.36683786352,1541.46207595876,0.999999993677776
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","MPL W515-CNTRL",-677.735714285714,-2080.74805980948,725.276631238055,0.759515679349548
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","TN-CNTRL",-142.210714285714,-1004.55302719819,720.131598626763,0.998728111899452
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type I-JAK2 V617F",-534.976470588234,-1555.11749318885,485.164552012383,0.683498792391961
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type II-JAK2 V617F",61.5401960784311,-1113.58215199932,1236.66254415618,0.999998471873017
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type_Other-JAK2 V617F",-12.9431372549016,-1562.64859760185,1536.76232309205,0.999999999974431
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","MPL W515-JAK2 V617F",-657.726470588235,-2032.95364214589,717.500700969416,0.767829678973438
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","TN-JAK2 V617F",-122.201470588235,-938.559478044271,694.156536867801,0.999266405349668
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type II-CALR Type I",596.516666666666,-707.754829148393,1900.78816248172,0.802663676134121
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type_Other-CALR Type I",522.033333333333,-1127.75411227081,2171.82077893747,0.959618570419241
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","MPL W515-CALR Type I",-122.750000000001,-1609.84830718562,1364.34830718562,0.99997718388769
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","TN-CALR Type I",412.774999999999,-580.528578057322,1406.07857805732,0.864103942807267
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","CALR Type_Other-CALR Type II",-74.4833333333327,-1824.34716878801,1675.38050212135,0.99999955671669
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","MPL W515-CALR Type II",-719.266666666666,-2316.6664920684,878.133158735063,0.813880528121084
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","TN-CALR Type II",-183.741666666666,-1335.6430622473,968.159728913965,0.998946669948069
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","MPL W515-CALR Type_Other",-644.783333333334,-2534.85229585054,1245.28562918387,0.942439583209518
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","TN-CALR Type_Other",-109.258333333334,-1641.4304209325,1422.91375426584,0.999990407470507
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype","TN-MPL W515",535.525,-819.913698569324,1890.96369856932,0.88973056726837
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Treatment","Treated-Untreated",-57.6823545199068,-451.170499260157,335.805790220343,0.770418050409543
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Untreated-CNTRL:Untreated",-1225.58571428572,-4159.69566439616,1708.52423582471,0.969879188576351
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Untreated-CNTRL:Untreated",-16.7607142857137,-1623.83892016156,1590.31749159013,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Untreated-CNTRL:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-CNTRL:Untreated",293.914285714286,-2640.19566439615,3228.02423582472,0.999999996269491
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CNTRL:Untreated",-1029.98571428571,-3964.09566439615,1904.12423582472,0.993230843756311
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CNTRL:Untreated",-132.302380952382,-1515.45507593239,1250.85031402763,0.999999997919835
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CNTRL:Treated-CNTRL:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-CNTRL:Untreated",55.3392857142862,-982.02523552072,1092.70380694929,0.999999999998976
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-CNTRL:Untreated",-985.565714285713,-2462.36867016667,491.237241595241,0.539987057716268
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-CNTRL:Untreated",41.5309523809519,-1341.62174259906,1424.68364736096,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-CNTRL:Untreated",-196.385714285714,-2339.15665545351,1946.38522688208,0.999999998790362
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CNTRL:Untreated",-560.319047619048,-2363.72952279429,1243.09142755619,0.997892065519447
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CNTRL:Untreated",-146.457142857143,-1217.84261344104,924.928327726753,0.99999981818768
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Untreated-JAK2 V617F:Untreated",1208.82500000001,-1960.37596121402,4378.02596121404,0.985814209100154
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Untreated-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-JAK2 V617F:Untreated",1519.50000000001,-2489.2573600925,5528.25736009252,0.986562763690866
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-JAK2 V617F:Untreated",195.600000000011,-3813.1573600925,4204.35736009252,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Untreated-JAK2 V617F:Untreated",1093.28333333334,-1968.45567422254,4155.02234088922,0.992089565048072
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CNTRL:Treated-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-JAK2 V617F:Untreated",1280.92500000001,-1640.9339156008,4202.78391560082,0.956198015132078
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-JAK2 V617F:Untreated",240.020000000011,-2865.15009892493,3345.19009892495,0.999999999861958
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-JAK2 V617F:Untreated",1267.11666666668,-1794.6223408892,4328.85567422255,0.972022505878858
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-JAK2 V617F:Untreated",1029.20000000001,-2442.48571144795,4500.88571144797,0.998683514961042
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-JAK2 V617F:Untreated",665.266666666677,-2607.87001161771,3938.40334495107,0.999978782586105
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-JAK2 V617F:Untreated",1079.12857142858,-1854.98137868185,4013.23852153902,0.98968635732102
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Untreated-CALR Type I:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-CALR Type I:Untreated",310.674999999999,-2858.52596121403,3479.87596121403,0.999999997161723
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CALR Type I:Untreated",-1013.225,-4182.42596121403,2155.97596121403,0.997208195520946
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CALR Type I:Untreated",-115.541666666668,-1945.28069473961,1714.19736140627,0.99999999998974
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CNTRL:Treated-CALR Type I:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-CALR Type I:Untreated",72.0999999999999,-1512.50048060701,1656.70048060701,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-CALR Type I:Untreated",-968.805,-2870.32557672842,932.715576728417,0.876629761327574
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-CALR Type I:Untreated",58.2916666666656,-1771.44736140627,1888.0306947396,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-CALR Type I:Untreated",-179.625,-2634.47750871329,2275.22750871329,0.99999999993161
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CALR Type I:Untreated",-543.558333333334,-2708.53474779947,1621.4180811328,0.999771389742286
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CALR Type I:Untreated",-129.696428571429,-1736.77463444727,1477.38177730441,0.999999999760503
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CNTRL:Treated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CALR Type II:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CALR Type_Other:Untreated",-1323.9,-5332.65736009251,2684.85736009251,0.996181064857002
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CALR Type_Other:Untreated",-426.216666666667,-3487.95567422255,2635.52234088921,0.999999772525004
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CNTRL:Treated-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-CALR Type_Other:Untreated",-238.574999999999,-3160.43391560081,2683.28391560081,0.999999999721992
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-CALR Type_Other:Untreated",-1279.48,-4384.65009892494,1825.69009892494,0.97298852224835
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-CALR Type_Other:Untreated",-252.383333333334,-3314.12234088921,2809.35567422254,0.999999999686163
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-CALR Type_Other:Untreated",-490.3,-3961.98571144796,2981.38571144796,0.999999728405105
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CALR Type_Other:Untreated",-854.233333333334,-4127.37001161772,2418.90334495106,0.999652520327199
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CALR Type_Other:Untreated",-440.371428571428,-3374.48137868186,2493.73852153901,0.999999427878713
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Untreated-MPL W515:Untreated",897.683333333332,-2164.05567422255,3959.42234088921,0.998823719729175
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CNTRL:Treated-MPL W515:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-MPL W515:Untreated",1085.325,-1836.53391560081,4007.18391560081,0.988741551460128
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-MPL W515:Untreated",44.4200000000008,-3060.75009892494,3149.59009892494,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-MPL W515:Untreated",1071.51666666667,-1990.22234088921,4133.25567422254,0.993418007743211
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-MPL W515:Untreated",833.6,-2638.08571144796,4305.28571144796,0.999859874462015
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-MPL W515:Untreated",469.666666666666,-2803.47001161773,3742.80334495106,0.999999669860892
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-MPL W515:Untreated",883.528571428571,-2050.58137868187,3817.63852153901,0.998458213220199
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CNTRL:Treated-TN:Untreated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-TN:Untreated",187.641666666668,-1169.32911451077,1544.61244784411,0.999999790502005
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-TN:Untreated",-853.263333333332,-2569.7106880608,863.184021394133,0.894394239049443
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-TN:Untreated",173.833333333333,-1462.73500580886,1810.40167247553,0.999999992185451
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-TN:Untreated",-64.0833333333326,-2378.54047429864,2250.37380763197,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-TN:Untreated",-428.016666666666,-2432.39534671292,1576.36201337959,0.999962548878388
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-TN:Untreated",-14.154761904761,-1397.30745688477,1368.99793307525,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Treated-CNTRL:Treated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-CNTRL:Treated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-CNTRL:Treated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-CNTRL:Treated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CNTRL:Treated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CNTRL:Treated",,,,
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type I:Treated-JAK2 V617F:Treated",-1040.905,-2493.21532972901,411.40532972901,0.42313141975123
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-JAK2 V617F:Treated",-13.8083333333343,-1370.77911451078,1343.16244784411,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-JAK2 V617F:Treated",-251.725,-2377.68963508967,1874.23963508967,0.999999969468235
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-JAK2 V617F:Treated",-615.658333333334,-2399.06733446309,1167.75066779642,0.994200454252118
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-JAK2 V617F:Treated",-201.796428571429,-1239.16094980644,835.568092663578,0.999987261102904
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type II:Treated-CALR Type I:Treated",1027.09666666667,-689.350688060799,2743.54402139413,0.704948115880274
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-CALR Type I:Treated",789.179999999999,-1582.43283733951,3160.79283733951,0.995895126376428
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CALR Type I:Treated",425.246666666665,-1644.86673261663,2495.36006594996,0.999976009534584
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CALR Type I:Treated",839.108571428571,-637.694384452384,2315.91152730953,0.77084628564921
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Treated-CALR Type II:Treated",-237.916666666666,-2552.37380763197,2076.54047429864,0.999999994828656
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CALR Type II:Treated",-601.85,-2606.22868004625,1402.52868004625,0.998501802947151
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CALR Type II:Treated",-187.988095238095,-1571.1407902181,1195.16459974191,0.999999830674146
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","MPL W515:Treated-CALR Type_Other:Treated",-363.933333333334,-2951.57508243745,2223.70841577078,0.999999741924025
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-CALR Type_Other:Treated",49.9285714285716,-2092.84236973922,2192.69951259636,1
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","ok_aliased",73,"Genotype:Treatment","TN:Treated-MPL W515:Treated",413.861904761905,-1389.54857041333,2217.27237993714,0.999915337334853

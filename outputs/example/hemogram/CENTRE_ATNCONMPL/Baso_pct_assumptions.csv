@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","test","statistic","p_value","note"
+"hemogram","CENTRE_ATNCONMPL","Baso.","ok",73,"shapiro_residuals",0.870374881438648,2.09874566297642e-06,""
+"hemogram","CENTRE_ATNCONMPL","Baso.","ok",73,"levene_cells",1.08477027419527,0.380725469053077,""

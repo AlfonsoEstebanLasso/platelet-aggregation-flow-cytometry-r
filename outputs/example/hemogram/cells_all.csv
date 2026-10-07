@@ -1,0 +1,417 @@
+"panel","variant","measure","Genotype","Treatment","n","below_min"
+"hemogram","CENTRE_A","EPO..mlU.ml.","CNTRL",,4,TRUE
+"hemogram","CENTRE_A","EPO..mlU.ml.","JAK2 V617F",,8,FALSE
+"hemogram","CENTRE_A","EPO..mlU.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_A","EPO..mlU.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_A","EPO..mlU.ml.","MPL W515",,1,TRUE
+"hemogram","CENTRE_A","EPO..mlU.ml.","TN",,7,FALSE
+"hemogram","CENTRE_A","EPO..mlU.ml.","VARIANT",,4,TRUE
+"hemogram","CENTRE_A","TPO..pg.ml.","CNTRL",,5,FALSE
+"hemogram","CENTRE_A","TPO..pg.ml.","JAK2 V617F",,6,FALSE
+"hemogram","CENTRE_A","TPO..pg.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_A","TPO..pg.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_A","TPO..pg.ml.","CALR Type_Other",,1,TRUE
+"hemogram","CENTRE_A","TPO..pg.ml.","MPL W515",,2,TRUE
+"hemogram","CENTRE_A","TPO..pg.ml.","TN",,8,FALSE
+"hemogram","CENTRE_A","TPO..pg.ml.","VARIANT",,2,TRUE
+"hemogram","CENTRE_A","HGB.gr.dl.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","HGB.gr.dl.","JAK2 V617F",,15,FALSE
+"hemogram","CENTRE_A","HGB.gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","HGB.gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_A","HGB.gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","HGB.gr.dl.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","HGB.gr.dl.","TN",,14,FALSE
+"hemogram","CENTRE_A","HGB.gr.dl.","VARIANT",,6,FALSE
+"hemogram","CENTRE_A","HCT....","CNTRL",,13,FALSE
+"hemogram","CENTRE_A","HCT....","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","HCT....","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","HCT....","CALR Type II",,6,FALSE
+"hemogram","CENTRE_A","HCT....","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","HCT....","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","HCT....","TN",,13,FALSE
+"hemogram","CENTRE_A","HCT....","VARIANT",,6,FALSE
+"hemogram","CENTRE_A","MCH..pg.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","MCH..pg.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","MCH..pg.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","MCH..pg.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_A","MCH..pg.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","MCH..pg.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","MCH..pg.","TN",,11,FALSE
+"hemogram","CENTRE_A","MCH..pg.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","MCHC..gr.dl.","CNTRL",,13,FALSE
+"hemogram","CENTRE_A","MCHC..gr.dl.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","MCHC..gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","MCHC..gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_A","MCHC..gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","MCHC..gr.dl.","MPL W515",,4,TRUE
+"hemogram","CENTRE_A","MCHC..gr.dl.","TN",,13,FALSE
+"hemogram","CENTRE_A","MCHC..gr.dl.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Lymph.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Lymph.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Lymph.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Lymph.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Lymph.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Lymph.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Lymph.","TN",,13,FALSE
+"hemogram","CENTRE_A","Lymph.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Mono.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Mono.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Mono.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Mono.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Mono.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Mono.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Mono.","TN",,13,FALSE
+"hemogram","CENTRE_A","Mono.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Eos.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Eos.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Eos.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Eos.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Eos.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Eos.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Eos.","TN",,13,FALSE
+"hemogram","CENTRE_A","Eos.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Baso.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Baso.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Baso.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Baso.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Baso.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Baso.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Baso.","TN",,13,FALSE
+"hemogram","CENTRE_A","Baso.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_A","Lymph..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Mono..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Mono..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Mono..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Mono..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Mono..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Mono..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Mono..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_A","Mono..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Eos..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Eos..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Eos..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Eos..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Eos..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Eos..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Eos..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_A","Eos..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_A","Baso..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_A","Baso..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_A","Baso..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_A","Baso..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_A","Baso..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_A","Baso..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_A","Baso..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_A","Baso..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","EPO..mlU.ml.","CNTRL",,4,TRUE
+"hemogram","CENTRE_Atratadosnotratados","EPO..mlU.ml.","JAK2 V617F",,8,FALSE
+"hemogram","CENTRE_Atratadosnotratados","EPO..mlU.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","EPO..mlU.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_Atratadosnotratados","EPO..mlU.ml.","MPL W515",,1,TRUE
+"hemogram","CENTRE_Atratadosnotratados","EPO..mlU.ml.","TN",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","EPO..mlU.ml.","VARIANT",,4,TRUE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","CNTRL",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","JAK2 V617F",,6,FALSE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","CALR Type_Other",,1,TRUE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","MPL W515",,2,TRUE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","TN",,8,FALSE
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","VARIANT",,2,TRUE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","JAK2 V617F",,15,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","TN",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HGB.gr.dl.","VARIANT",,6,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","CNTRL",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","CALR Type II",,6,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","HCT....","VARIANT",,6,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","TN",,11,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCH..pg.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","CNTRL",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","MPL W515",,4,TRUE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Lymph..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Mono..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","TN",,13,FALSE
+"hemogram","CENTRE_Atratadosnotratados","Baso..10.6.ml.","VARIANT",,7,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","EPO..mlU.ml.","CNTRL",,4,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","EPO..mlU.ml.","JAK2 V617F",,8,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","EPO..mlU.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","EPO..mlU.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","EPO..mlU.ml.","MPL W515",,1,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","EPO..mlU.ml.","TN",,11,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","TPO..pg.ml.","CNTRL",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","TPO..pg.ml.","JAK2 V617F",,6,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","TPO..pg.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","TPO..pg.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","TPO..pg.ml.","CALR Type_Other",,1,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","TPO..pg.ml.","MPL W515",,2,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","TPO..pg.ml.","TN",,10,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","JAK2 V617F",,15,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HGB.gr.dl.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HCT....","CNTRL",,13,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HCT....","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HCT....","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HCT....","CALR Type II",,6,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HCT....","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HCT....","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","HCT....","TN",,19,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCH..pg.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCH..pg.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCH..pg.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCH..pg.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCH..pg.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCH..pg.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCH..pg.","TN",,18,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCHC..gr.dl.","CNTRL",,13,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCHC..gr.dl.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCHC..gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCHC..gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCHC..gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCHC..gr.dl.","MPL W515",,4,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","MCHC..gr.dl.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Lymph..10.6.ml.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Mono..10.6.ml.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Eos..10.6.ml.","TN",,20,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_AtratadosnotratadosMPLCONTN","Baso..10.6.ml.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","CNTRL",,4,TRUE
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","JAK2 V617F",,8,FALSE
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","MPL W515",,1,TRUE
+"hemogram","CENTRE_ATNCONMPL","EPO..mlU.ml.","TN",,11,FALSE
+"hemogram","CENTRE_ATNCONMPL","TPO..pg.ml.","CNTRL",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","TPO..pg.ml.","JAK2 V617F",,6,FALSE
+"hemogram","CENTRE_ATNCONMPL","TPO..pg.ml.","CALR Type I",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","TPO..pg.ml.","CALR Type II",,1,TRUE
+"hemogram","CENTRE_ATNCONMPL","TPO..pg.ml.","CALR Type_Other",,1,TRUE
+"hemogram","CENTRE_ATNCONMPL","TPO..pg.ml.","MPL W515",,2,TRUE
+"hemogram","CENTRE_ATNCONMPL","TPO..pg.ml.","TN",,10,FALSE
+"hemogram","CENTRE_ATNCONMPL","HGB.gr.dl.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","HGB.gr.dl.","JAK2 V617F",,15,FALSE
+"hemogram","CENTRE_ATNCONMPL","HGB.gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","HGB.gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_ATNCONMPL","HGB.gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","HGB.gr.dl.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","HGB.gr.dl.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","HCT....","CNTRL",,13,FALSE
+"hemogram","CENTRE_ATNCONMPL","HCT....","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","HCT....","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","HCT....","CALR Type II",,6,FALSE
+"hemogram","CENTRE_ATNCONMPL","HCT....","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","HCT....","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","HCT....","TN",,19,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCH..pg.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCH..pg.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCH..pg.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCH..pg.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCH..pg.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","MCH..pg.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCH..pg.","TN",,18,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCHC..gr.dl.","CNTRL",,13,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCHC..gr.dl.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCHC..gr.dl.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCHC..gr.dl.","CALR Type II",,6,FALSE
+"hemogram","CENTRE_ATNCONMPL","MCHC..gr.dl.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","MCHC..gr.dl.","MPL W515",,4,TRUE
+"hemogram","CENTRE_ATNCONMPL","MCHC..gr.dl.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Lymph.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Mono.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Eos.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Baso.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Lymph..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Lymph..10.6.ml.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Mono..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Mono..10.6.ml.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Eos..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Eos..10.6.ml.","TN",,20,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso..10.6.ml.","CNTRL",,14,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso..10.6.ml.","JAK2 V617F",,17,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso..10.6.ml.","CALR Type I",,9,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso..10.6.ml.","CALR Type II",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso..10.6.ml.","CALR Type_Other",,3,TRUE
+"hemogram","CENTRE_ATNCONMPL","Baso..10.6.ml.","MPL W515",,5,FALSE
+"hemogram","CENTRE_ATNCONMPL","Baso..10.6.ml.","TN",,20,FALSE

@@ -1,0 +1,901 @@
+"panel","variant","measure","Genotype","Treatment","n","below_min"
+"markers","CENTRE_A","CD61","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","CD61","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD61","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","CD61","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD61","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD61","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","CD61","TN","Untreated",6,FALSE
+"markers","CENTRE_A","CD61","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","CD61","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD61","JAK2 V617F","ASA",9,FALSE
+"markers","CENTRE_A","CD61","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD61","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","CD61","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD61","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD61","TN","ASA",4,TRUE
+"markers","CENTRE_A","CD61","VARIANT","ASA",1,TRUE
+"markers","CENTRE_A","CD61","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD61","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD61","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD61","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD61","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD61","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD61","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD61","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD61","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD61","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","CD61","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","CD61","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","CD61","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD61","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD61","TN","HU",2,TRUE
+"markers","CENTRE_A","CD61","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","CD41","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_A","CD41","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD41","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","CD41","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD41","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD41","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","CD41","TN","Untreated",6,FALSE
+"markers","CENTRE_A","CD41","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","CD41","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD41","JAK2 V617F","ASA",8,FALSE
+"markers","CENTRE_A","CD41","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD41","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","CD41","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD41","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD41","TN","ASA",4,TRUE
+"markers","CENTRE_A","CD41","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","CD41","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD41","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD41","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD41","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD41","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD41","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD41","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD41","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD41","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD41","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","CD41","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","CD41","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","CD41","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD41","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD41","TN","HU",2,TRUE
+"markers","CENTRE_A","CD41","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","CD49B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","CD49B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD49B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","CD49B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD49B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD49B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","CD49B","TN","Untreated",6,FALSE
+"markers","CENTRE_A","CD49B","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","CD49B","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD49B","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_A","CD49B","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD49B","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","CD49B","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD49B","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD49B","TN","ASA",3,TRUE
+"markers","CENTRE_A","CD49B","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","CD49B","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD49B","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD49B","CALR Type I","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD49B","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD49B","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD49B","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD49B","TN","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD49B","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD49B","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD49B","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","CD49B","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","CD49B","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","CD49B","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD49B","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD49B","TN","HU",2,TRUE
+"markers","CENTRE_A","CD49B","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","GPVI","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","GPVI","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","GPVI","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","GPVI","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","GPVI","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","GPVI","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","GPVI","TN","Untreated",5,FALSE
+"markers","CENTRE_A","GPVI","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","GPVI","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","GPVI","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_A","GPVI","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","GPVI","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","GPVI","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","GPVI","MPL W515","ASA",2,TRUE
+"markers","CENTRE_A","GPVI","TN","ASA",4,TRUE
+"markers","CENTRE_A","GPVI","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","GPVI","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","GPVI","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","GPVI","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","GPVI","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","GPVI","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","GPVI","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","GPVI","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","GPVI","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","GPVI","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","GPVI","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","GPVI","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","GPVI","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","GPVI","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","GPVI","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","GPVI","TN","HU",2,TRUE
+"markers","CENTRE_A","GPVI","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","CD42A","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","CD42A","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD42A","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","CD42A","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD42A","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD42A","MPL W515","Untreated",1,TRUE
+"markers","CENTRE_A","CD42A","TN","Untreated",6,FALSE
+"markers","CENTRE_A","CD42A","VARIANT","Untreated",0,TRUE
+"markers","CENTRE_A","CD42A","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD42A","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_A","CD42A","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD42A","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","CD42A","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD42A","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD42A","TN","ASA",4,TRUE
+"markers","CENTRE_A","CD42A","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","CD42A","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD42A","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD42A","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD42A","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD42A","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD42A","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD42A","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD42A","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD42A","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD42A","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","CD42A","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","CD42A","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","CD42A","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD42A","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD42A","TN","HU",2,TRUE
+"markers","CENTRE_A","CD42A","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","CD42B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","CD42B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD42B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","CD42B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD42B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD42B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","CD42B","TN","Untreated",6,FALSE
+"markers","CENTRE_A","CD42B","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","CD42B","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD42B","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_A","CD42B","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD42B","CALR Type II","ASA",2,TRUE
+"markers","CENTRE_A","CD42B","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD42B","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD42B","TN","ASA",4,TRUE
+"markers","CENTRE_A","CD42B","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","CD42B","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD42B","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD42B","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD42B","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD42B","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD42B","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD42B","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD42B","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD42B","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD42B","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","CD42B","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","CD42B","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","CD42B","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD42B","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD42B","TN","HU",2,TRUE
+"markers","CENTRE_A","CD42B","VARIANT","HU",0,TRUE
+"markers","CENTRE_A","CD31","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","CD31","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD31","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","CD31","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD31","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD31","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","CD31","TN","Untreated",5,FALSE
+"markers","CENTRE_A","CD31","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","CD31","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD31","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_A","CD31","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD31","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","CD31","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD31","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD31","TN","ASA",4,TRUE
+"markers","CENTRE_A","CD31","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","CD31","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD31","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD31","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD31","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD31","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD31","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD31","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD31","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD31","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD31","JAK2 V617F","HU",2,TRUE
+"markers","CENTRE_A","CD31","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","CD31","CALR Type II","HU",1,TRUE
+"markers","CENTRE_A","CD31","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD31","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD31","TN","HU",2,TRUE
+"markers","CENTRE_A","CD31","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","CD36","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_A","CD36","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD36","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","CD36","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD36","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD36","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","CD36","TN","Untreated",6,FALSE
+"markers","CENTRE_A","CD36","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","CD36","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD36","JAK2 V617F","ASA",9,FALSE
+"markers","CENTRE_A","CD36","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD36","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","CD36","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD36","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD36","TN","ASA",4,TRUE
+"markers","CENTRE_A","CD36","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","CD36","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD36","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD36","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD36","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD36","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD36","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD36","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD36","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD36","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD36","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","CD36","CALR Type I","HU",2,TRUE
+"markers","CENTRE_A","CD36","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","CD36","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD36","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD36","TN","HU",2,TRUE
+"markers","CENTRE_A","CD36","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","CD9","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","CD9","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","CD9","CALR Type I","Untreated",3,TRUE
+"markers","CENTRE_A","CD9","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","CD9","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","CD9","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","CD9","TN","Untreated",6,FALSE
+"markers","CENTRE_A","CD9","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","CD9","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","CD9","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_A","CD9","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","CD9","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","CD9","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","CD9","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","CD9","TN","ASA",4,TRUE
+"markers","CENTRE_A","CD9","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","CD9","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD9","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD9","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD9","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD9","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","CD9","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","CD9","TN","Anagrelide",2,TRUE
+"markers","CENTRE_A","CD9","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","CD9","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","CD9","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","CD9","CALR Type I","HU",3,TRUE
+"markers","CENTRE_A","CD9","CALR Type II","HU",1,TRUE
+"markers","CENTRE_A","CD9","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","CD9","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","CD9","TN","HU",2,TRUE
+"markers","CENTRE_A","CD9","VARIANT","HU",1,TRUE
+"markers","CENTRE_A","FSC.unstained","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_A","FSC.unstained","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_A","FSC.unstained","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_A","FSC.unstained","TN","Untreated",6,FALSE
+"markers","CENTRE_A","FSC.unstained","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_A","FSC.unstained","CNTRL","ASA",0,TRUE
+"markers","CENTRE_A","FSC.unstained","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_A","FSC.unstained","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_A","FSC.unstained","MPL W515","ASA",3,TRUE
+"markers","CENTRE_A","FSC.unstained","TN","ASA",4,TRUE
+"markers","CENTRE_A","FSC.unstained","VARIANT","ASA",2,TRUE
+"markers","CENTRE_A","FSC.unstained","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_A","FSC.unstained","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_A","FSC.unstained","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_A","FSC.unstained","TN","Anagrelide",1,TRUE
+"markers","CENTRE_A","FSC.unstained","VARIANT","Anagrelide",3,TRUE
+"markers","CENTRE_A","FSC.unstained","CNTRL","HU",0,TRUE
+"markers","CENTRE_A","FSC.unstained","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type I","HU",1,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type II","HU",2,TRUE
+"markers","CENTRE_A","FSC.unstained","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_A","FSC.unstained","MPL W515","HU",0,TRUE
+"markers","CENTRE_A","FSC.unstained","TN","HU",2,TRUE
+"markers","CENTRE_A","FSC.unstained","VARIANT","HU",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","CD61","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD61","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","JAK2 V617F","Treated",15,FALSE
+"markers","CENTRE_Atratadosnotratados","CD61","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD61","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD61","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD61","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","CD61","VARIANT","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD41","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_Atratadosnotratados","CD41","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD41","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","JAK2 V617F","Treated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","CD41","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD41","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD41","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD41","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","CD41","VARIANT","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD49B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","CD49B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD49B","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_Atratadosnotratados","CD49B","CALR Type I","Treated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD49B","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD49B","TN","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD49B","VARIANT","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","GPVI","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","GPVI","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","TN","Untreated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","GPVI","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_Atratadosnotratados","GPVI","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","GPVI","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","GPVI","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","MPL W515","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","GPVI","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","GPVI","VARIANT","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42A","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42A","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","MPL W515","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42A","VARIANT","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42A","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42A","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42A","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42A","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42A","VARIANT","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42B","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42B","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42B","CALR Type II","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42B","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD42B","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","CD42B","VARIANT","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD31","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","CD31","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","TN","Untreated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD31","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","JAK2 V617F","Treated",15,FALSE
+"markers","CENTRE_Atratadosnotratados","CD31","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD31","CALR Type II","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD31","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD31","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","CD31","VARIANT","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD36","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_Atratadosnotratados","CD36","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD36","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","JAK2 V617F","Treated",15,FALSE
+"markers","CENTRE_Atratadosnotratados","CD36","CALR Type I","Treated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD36","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD36","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","CD36","VARIANT","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD9","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","CD9","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","CALR Type I","Untreated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","CD9","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_Atratadosnotratados","CD9","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD9","CALR Type II","Treated",5,FALSE
+"markers","CENTRE_Atratadosnotratados","CD9","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","CD9","TN","Treated",8,FALSE
+"markers","CENTRE_Atratadosnotratados","CD9","VARIANT","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","TN","Untreated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","VARIANT","Untreated",1,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CNTRL","Treated",0,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CALR Type I","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","MPL W515","Treated",3,TRUE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","TN","Treated",7,FALSE
+"markers","CENTRE_Atratadosnotratados","FSC.unstained","VARIANT","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","TN","Untreated",7,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","JAK2 V617F","Treated",15,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD61","TN","Treated",13,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","TN","Untreated",7,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","JAK2 V617F","Treated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD41","TN","Treated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","TN","Untreated",7,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CALR Type I","Treated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD49B","TN","Treated",12,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","TN","Untreated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","MPL W515","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","GPVI","TN","Treated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","MPL W515","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","TN","Untreated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42A","TN","Treated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","TN","Untreated",7,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CALR Type II","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD42B","TN","Treated",13,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","TN","Untreated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","JAK2 V617F","Treated",15,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CALR Type II","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD31","TN","Treated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","TN","Untreated",7,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","JAK2 V617F","Treated",15,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CALR Type I","Treated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD36","TN","Treated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CALR Type I","Untreated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","TN","Untreated",7,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CALR Type I","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CALR Type II","Treated",5,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","CD9","TN","Treated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","TN","Untreated",7,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CNTRL","Treated",0,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","JAK2 V617F","Treated",16,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CALR Type I","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CALR Type II","Treated",6,FALSE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","CALR Type_Other","Treated",2,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","MPL W515","Treated",3,TRUE
+"markers","CENTRE_AtratadosnotratadosMPLCONTN","FSC.unstained","TN","Treated",13,FALSE
+"markers","CENTRE_ATNCONMPL","CD61","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","CD61","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","TN","Untreated",7,FALSE
+"markers","CENTRE_ATNCONMPL","CD61","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","JAK2 V617F","ASA",9,FALSE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","TN","ASA",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD61","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD61","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD61","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_ATNCONMPL","CD41","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","TN","Untreated",7,FALSE
+"markers","CENTRE_ATNCONMPL","CD41","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","JAK2 V617F","ASA",8,FALSE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD41","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD41","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD41","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","CD49B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","TN","Untreated",7,FALSE
+"markers","CENTRE_ATNCONMPL","CD49B","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","TN","ASA",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD49B","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type I","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","TN","Anagrelide",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD49B","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","GPVI","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","TN","Untreated",6,FALSE
+"markers","CENTRE_ATNCONMPL","GPVI","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","MPL W515","ASA",2,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","GPVI","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","GPVI","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","GPVI","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","CD42A","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","MPL W515","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","TN","Untreated",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD42A","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD42A","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD42A","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42A","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","CD42B","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","TN","Untreated",7,FALSE
+"markers","CENTRE_ATNCONMPL","CD42B","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type II","ASA",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD42B","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD42B","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD42B","TN","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","CD31","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","TN","Untreated",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD31","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD31","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD31","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","JAK2 V617F","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type II","HU",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD31","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CNTRL","Untreated",13,FALSE
+"markers","CENTRE_ATNCONMPL","CD36","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","TN","Untreated",7,FALSE
+"markers","CENTRE_ATNCONMPL","CD36","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","JAK2 V617F","ASA",9,FALSE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD36","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD36","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type I","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD36","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","CD9","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type I","Untreated",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","TN","Untreated",7,FALSE
+"markers","CENTRE_ATNCONMPL","CD9","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","CD9","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","TN","Anagrelide",5,FALSE
+"markers","CENTRE_ATNCONMPL","CD9","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type I","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type II","HU",1,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","CD9","TN","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CNTRL","Untreated",14,FALSE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","JAK2 V617F","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type I","Untreated",4,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type II","Untreated",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type_Other","Untreated",1,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","MPL W515","Untreated",2,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","TN","Untreated",7,FALSE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CNTRL","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","JAK2 V617F","ASA",10,FALSE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type I","ASA",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type II","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type_Other","ASA",1,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","MPL W515","ASA",3,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","TN","ASA",6,FALSE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CNTRL","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","JAK2 V617F","Anagrelide",3,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type I","Anagrelide",2,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type II","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type_Other","Anagrelide",1,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","MPL W515","Anagrelide",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","TN","Anagrelide",4,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CNTRL","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","JAK2 V617F","HU",3,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type I","HU",1,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type II","HU",2,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","CALR Type_Other","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","MPL W515","HU",0,TRUE
+"markers","CENTRE_ATNCONMPL","FSC.unstained","TN","HU",3,TRUE

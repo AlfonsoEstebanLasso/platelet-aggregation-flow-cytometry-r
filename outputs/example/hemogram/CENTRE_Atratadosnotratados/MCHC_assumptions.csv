@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","test","statistic","p_value","note"
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","ok",72,"shapiro_residuals",0.982191239491171,0.401349903677976,""
+"hemogram","CENTRE_Atratadosnotratados","MCHC..gr.dl.","ok",72,"levene_cells",0.709636730908126,0.663903428487911,""

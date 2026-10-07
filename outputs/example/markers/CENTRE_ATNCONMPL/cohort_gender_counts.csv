@@ -1,0 +1,11 @@
+"panel","variant","group","Treatment","level","n"
+"markers","CENTRE_ATNCONMPL","Gender","Untreated","(missing)",1
+"markers","CENTRE_ATNCONMPL","Gender","Untreated","M",10
+"markers","CENTRE_ATNCONMPL","Gender","Untreated","F",18
+"markers","CENTRE_ATNCONMPL","Gender","ASA","M",5
+"markers","CENTRE_ATNCONMPL","Gender","ASA","F",18
+"markers","CENTRE_ATNCONMPL","Gender","Anagrelide","M",5
+"markers","CENTRE_ATNCONMPL","Gender","Anagrelide","F",7
+"markers","CENTRE_ATNCONMPL","Gender","HU","(missing)",1
+"markers","CENTRE_ATNCONMPL","Gender","HU","M",5
+"markers","CENTRE_ATNCONMPL","Gender","HU","F",5

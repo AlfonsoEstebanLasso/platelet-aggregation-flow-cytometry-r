@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","test","statistic","p_value","note"
+"aggregation","CENTRE_A","CVX","ok_aliased",71,"shapiro_residuals",0.988235215125694,0.750916856600609,""
+"aggregation","CENTRE_A","CVX","ok_aliased",71,"levene_cells",1.22933522109646,0.268602321321613,""

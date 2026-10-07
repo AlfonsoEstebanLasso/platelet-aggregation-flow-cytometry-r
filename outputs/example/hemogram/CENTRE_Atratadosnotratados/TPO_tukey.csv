@@ -1,0 +1,29 @@
+"panel","variant","measure","status","n","term","comparison","diff","lwr","upr","p_adj"
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","JAK2 V617F-CNTRL",-18.24,-222.043292495782,185.563292495782,0.999984024713355
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type I-CNTRL",0.859999999999928,-244.936018999114,246.656018999114,1
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type II-CNTRL",-38.14,-406.834028498671,330.554028498671,0.99995725258724
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type_Other-CNTRL",-53.34,-422.034028498671,315.354028498671,0.99959970772078
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","MPL W515-CNTRL",-23.9400000000001,-305.534715645561,257.654715645561,0.999988754039497
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","TN-CNTRL",-15.2650000000001,-207.13945583297,176.60945583297,0.999992862184781
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","VARIANT-CNTRL",-15.7400000000001,-297.334715645561,265.854715645561,0.999999374968958
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type I-JAK2 V617F",19.0999999999999,-218.890972036913,257.090972036913,0.999992421511498
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type II-JAK2 V617F",-19.9,-383.437214691757,343.637214691757,0.999999459261639
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type_Other-JAK2 V617F",-35.1,-398.637214691757,328.437214691757,0.999973221316831
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","MPL W515-JAK2 V617F",-5.70000000000007,-280.508303540424,269.108303540424,0.999999999375996
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","TN-JAK2 V617F",2.97499999999988,-178.793607345879,184.743607345878,0.999999999880942
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","VARIANT-JAK2 V617F",2.49999999999994,-272.308303540424,277.308303540424,0.999999999998138
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type II-CALR Type I",-39,-427.63762991961,349.63762991961,0.999965202223552
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type_Other-CALR Type I",-54.2,-442.83762991961,334.43762991961,0.999685387444158
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","MPL W515-CALR Type I",-24.8,-332.045023748893,282.445023748892,0.999992117152681
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","TN-CALR Type I",-16.1250000000001,-243.984008029421,211.734008029421,0.99999680851154
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","VARIANT-CALR Type I",-16.6,-323.845023748892,290.645023748893,0.999999506150964
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","CALR Type_Other-CALR Type II",-15.2,-491.181944073825,460.781944073825,0.999999987288518
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","MPL W515-CALR Type II",14.2,-398.012455310637,426.412455310636,0.999999978433185
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","TN-CALR Type II",22.8749999999999,-334.111458055369,379.861458055369,0.999998391322881
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","VARIANT-CALR Type II",22.4,-389.812455310637,434.612455310637,0.999999486007948
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","MPL W515-CALR Type_Other",29.3999999999999,-382.812455310637,441.612455310637,0.999996632072828
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","TN-CALR Type_Other",38.0749999999999,-318.911458055369,395.061458055369,0.999947444825669
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","VARIANT-CALR Type_Other",37.6,-374.612455310637,449.812455310636,0.999981814051332
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","TN-MPL W515",8.67499999999995,-257.406995752894,274.756995752894,0.999999985310968
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","VARIANT-MPL W515",8.20000000000002,-328.370060376958,344.770060376958,0.999999998078424
+"hemogram","CENTRE_Atratadosnotratados","TPO..pg.ml.","ok",28,"Genotype","VARIANT-TN",-0.474999999999937,-266.556995752894,265.606995752894,1

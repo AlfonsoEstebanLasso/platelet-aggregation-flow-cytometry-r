@@ -1,0 +1,406 @@
+"panel","variant","measure","status","n","term","comparison","diff","lwr","upr","p_adj"
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","JAK2 V617F-CNTRL",41.4260504201681,-132.515158312541,215.367259152878,0.990071555955452
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type I-CNTRL",-82.7968253968253,-288.712193588968,123.118542795317,0.878354991858969
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type II-CNTRL",-64.252380952381,-299.424303793224,170.919541888462,0.979792401846285
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type_Other-CNTRL",98.3809523809524,-208.245720623079,405.007625384983,0.955501228185856
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","MPL W515-CNTRL",146.814285714286,-126.430796483163,420.059367911734,0.653480572748907
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","TN-CNTRL",-25.0457142857143,-192.992059822782,142.900631251354,0.999251885905787
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type I-JAK2 V617F",-124.222875816993,-322.901467963973,74.4557163299863,0.479196826622803
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type II-JAK2 V617F",-105.678431372549,-334.540567630297,123.183704885198,0.791377435383317
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type_Other-JAK2 V617F",56.9549019607844,-244.859545535225,358.769349456794,0.997185691956248
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","MPL W515-JAK2 V617F",105.388235294118,-162.445517367661,373.221987955896,0.888842977943252
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","TN-JAK2 V617F",-66.4717647058824,-225.462390527208,92.5188611154429,0.857428391347453
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type II-CALR Type I",18.5444444444444,-235.470264135136,272.559153024025,0.999988480658946
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type_Other-CALR Type I",181.177777777778,-140.128237540378,502.483793095933,0.600929296528434
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","MPL W515-CALR Type I",229.611111111111,-60.0102172250461,519.232439447268,0.207007638728711
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","TN-CALR Type I",57.751111111111,-135.700727498312,251.202949720534,0.968571820097289
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","CALR Type_Other-CALR Type II",162.633333333333,-178.163160067911,503.429826734578,0.765210397458427
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","MPL W515-CALR Type II",211.066666666667,-100.036544924204,522.169878257537,0.379780042464885
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","TN-CALR Type II",39.2066666666666,-185.133049603815,263.546382937148,0.998164809242578
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","MPL W515-CALR Type_Other",48.4333333333332,-319.668950776689,416.535617443355,0.999635449330991
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","TN-CALR Type_Other",-123.426666666667,-421.826384496931,174.973051163598,0.863445747468132
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype","TN-MPL W515",-171.86,-435.839828677781,92.1198286777815,0.429887722646854
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Treatment","ASA-Untreated",46.5775112469231,-72.2768090282498,165.431831522096,0.727180944691917
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Treatment","Anagrelide-Untreated",-27.510351696234,-171.450081643092,116.429378250624,0.957083966988538
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Treatment","HU-Untreated",-0.270349715643647,-148.719348159535,148.178648728248,0.999999958945467
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Treatment","Anagrelide-ASA",-74.0878629431571,-223.800279899611,75.6245540132967,0.559134146334484
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Treatment","HU-ASA",-46.8478609625668,-200.90066708035,107.204945155216,0.851034561493132
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Treatment","HU-Anagrelide",27.2400019805904,-146.899492338947,201.379496300128,0.975684425802593
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Untreated-CNTRL:Untreated",21.5142857142858,-616.964631904906,659.993203333478,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Untreated-CNTRL:Untreated",-39.3107142857142,-389.020019957228,310.3985913858,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Untreated-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-CNTRL:Untreated",186.714285714286,-451.764631904906,825.193203333478,0.999990836446074
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CNTRL:Untreated",14.0142857142855,-452.2647885144,480.293359942971,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CNTRL:Untreated",-65.3857142857145,-366.367562481166,235.596133909737,0.999999981859557
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:ASA-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-CNTRL:Untreated",67.0042857142856,-188.387281333391,322.395852761962,0.9999989503601
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-CNTRL:Untreated",-87.4190476190476,-479.851365354673,305.013270116578,0.999999968293819
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-CNTRL:Untreated",212.614285714286,-425.864631904906,851.093203333478,0.999898919339129
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CNTRL:Untreated",279.614285714286,-186.6647885144,745.893359942971,0.825041509432608
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CNTRL:Untreated",16.6476190476191,-284.334229147833,317.629467243071,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CNTRL:Untreated",14.1142857142858,-378.31803202134,406.546603449911,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CNTRL:Untreated",-124.785714285714,-591.0647885144,341.493359942971,0.999998424080962
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CNTRL:Untreated",-39.0857142857143,-677.564631904906,599.393203333478,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CNTRL:Untreated",-104.185714285714,-742.664631904906,534.293203333478,0.999999999977516
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CNTRL:Untreated",-45.1457142857144,-366.506388848099,276.21496027667,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:Untreated",-9.88571428571424,-402.31803202134,382.546603449911,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CNTRL:Untreated",-112.785714285714,-505.21803202134,279.646603449911,0.999993460813967
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CNTRL:Untreated",-42.0857142857143,-508.3647885144,424.193359942971,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CNTRL:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CNTRL:Untreated",5.74761904761931,-386.684698688006,398.179936783245,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Untreated-JAK2 V617F:Untreated",-60.825,-750.461051081683,628.811051081683,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Untreated-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-JAK2 V617F:Untreated",165.2,-707.128271192938,1037.52827119294,0.999999999215055
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-JAK2 V617F:Untreated",-7.50000000000034,-762.958443292446,747.958443292445,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Untreated-JAK2 V617F:Untreated",-86.9000000000004,-753.151722265268,579.351722265267,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:ASA-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-JAK2 V617F:Untreated",45.4899999999998,-601.445960507185,692.425960507184,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-JAK2 V617F:Untreated",-108.933333333333,-821.186384208961,603.319717542294,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-JAK2 V617F:Untreated",191.1,-681.228271192938,1063.42827119294,0.999999978129944
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-JAK2 V617F:Untreated",258.1,-497.358443292445,1013.55844329245,0.999842066657231
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-JAK2 V617F:Untreated",-4.86666666666679,-671.118388931934,661.385055598601,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-JAK2 V617F:Untreated",-7.40000000000009,-719.653050875628,704.853050875628,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-JAK2 V617F:Untreated",-146.3,-901.758443292445,609.158443292445,0.999999998679187
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-JAK2 V617F:Untreated",-60.6000000000002,-932.928271192938,811.728271192938,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-JAK2 V617F:Untreated",-125.7,-998.028271192938,746.628271192938,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-JAK2 V617F:Untreated",-66.6600000000003,-742.362573351232,609.042573351231,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-JAK2 V617F:Untreated",-31.4000000000001,-743.653050875628,680.853050875628,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:Untreated",-134.3,-846.553050875628,577.953050875628,0.999999999290945
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:Untreated",-63.6000000000001,-819.058443292446,691.858443292445,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-JAK2 V617F:Untreated",-15.7666666666665,-728.019717542295,696.486384208961,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Untreated-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-CALR Type I:Untreated",226.025,-463.611051081683,915.661051081683,0.999923736725391
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CALR Type I:Untreated",53.3249999999997,-480.864788156721,587.514788156721,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CALR Type I:Untreated",-26.0750000000003,-424.23655973488,372.08655973488,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:ASA-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-CALR Type I:Untreated",106.315,-258.606097261354,471.236097261354,0.999991480334453
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-CALR Type I:Untreated",-48.1083333333334,-519.21944412432,423.002777457653,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type I:Untreated",251.925,-437.711051081683,941.561051081683,0.999516208949351
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CALR Type I:Untreated",318.925,-215.264788156721,853.114788156721,0.830620758261327
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CALR Type I:Untreated",55.9583333333333,-342.203226401547,454.119893068213,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type I:Untreated",53.425,-417.686110790987,524.536110790987,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type I:Untreated",-85.4750000000001,-619.664788156721,448.714788156721,0.999999999986084
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type I:Untreated",0.224999999999852,-689.411051081683,689.861051081683,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type I:Untreated",-64.8750000000001,-754.511051081683,624.761051081683,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type I:Untreated",-5.83500000000021,-419.61663064901,407.946630649009,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type I:Untreated",29.425,-441.686110790987,500.536110790987,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type I:Untreated",-73.4750000000001,-544.586110790987,397.636110790987,0.999999999992606
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type I:Untreated",-2.77500000000009,-536.964788156721,531.414788156721,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type I:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type I:Untreated",45.0583333333335,-426.052777457653,516.16944412432,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Untreated-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:ASA-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type II:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Untreated-CALR Type_Other:Untreated",-172.7,-928.158443292446,582.758443292445,0.999999943920121
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Untreated-CALR Type_Other:Untreated",-252.1,-918.351722265268,414.151722265267,0.999152482157225
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:ASA-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-CALR Type_Other:Untreated",-119.71,-766.645960507184,527.225960507184,0.999999999544008
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-CALR Type_Other:Untreated",-274.133333333333,-986.386384208961,438.119717542295,0.998896327472785
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type_Other:Untreated",25.9000000000003,-846.428271192938,898.228271192938,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CALR Type_Other:Untreated",92.9000000000001,-662.558443292445,848.358443292445,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CALR Type_Other:Untreated",-170.066666666667,-836.318388931934,496.185055598601,0.999999405505488
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type_Other:Untreated",-172.6,-884.853050875628,539.653050875628,0.999999801745102
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type_Other:Untreated",-311.5,-1066.95844329245,443.958443292445,0.9969400376733
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type_Other:Untreated",-225.8,-1098.12827119294,646.528271192938,0.999999205284889
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type_Other:Untreated",-290.9,-1163.22827119294,581.428271192938,0.999896358482873
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type_Other:Untreated",-231.86,-907.562573351231,443.842573351231,0.999829777995883
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type_Other:Untreated",-196.6,-908.853050875628,515.653050875628,0.99999705796219
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type_Other:Untreated",-299.5,-1011.75305087563,412.753050875628,0.995969572556168
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type_Other:Untreated",-228.8,-984.258443292445,526.658443292445,0.99998210461315
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type_Other:Untreated",-180.966666666666,-893.219717542294,531.286384208962,0.99999946045881
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Untreated-MPL W515:Untreated",-79.4,-583.038962194964,424.238962194964,0.999999999990359
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:ASA-MPL W515:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-MPL W515:Untreated",52.9900000000001,-424.803871681856,530.783871681856,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-MPL W515:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-MPL W515:Untreated",-101.433333333333,-664.518811126026,461.652144459359,0.999999999758094
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-MPL W515:Untreated",198.6,-556.858443292445,954.058443292446,0.999998906079432
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-MPL W515:Untreated",265.6,-351.229235981264,882.429235981264,0.994425793303716
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-MPL W515:Untreated",2.63333333333355,-501.00562886163,506.272295528297,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-MPL W515:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-MPL W515:Untreated",0.10000000000025,-562.985477792692,563.185477792693,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-MPL W515:Untreated",-138.8,-755.629235981264,478.029235981264,0.999999960370419
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-MPL W515:Untreated",-53.0999999999999,-808.558443292445,702.358443292446,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-MPL W515:Untreated",-118.2,-873.658443292445,637.258443292446,0.999999999992004
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-MPL W515:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-MPL W515:Untreated",-59.1599999999999,-575.236364943078,456.916364943078,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-MPL W515:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-MPL W515:Untreated",-23.8999999999997,-586.985477792692,539.185477792693,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-MPL W515:Untreated",-126.8,-689.885477792692,436.285477792693,0.999999959720309
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-MPL W515:Untreated",-56.0999999999998,-672.929235981264,560.729235981264,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-MPL W515:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-MPL W515:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-MPL W515:Untreated",-8.2666666666662,-571.352144459359,554.818811126026,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:ASA-TN:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-TN:Untreated",132.39,-186.139247787904,450.919247787904,0.996575048797829
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-TN:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-TN:Untreated",-22.0333333333331,-458.197468929802,414.130802263136,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-TN:Untreated",278.000000000001,-388.251722265267,944.251722265268,0.996381369913271
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-TN:Untreated",345,-158.638962194963,848.638962194964,0.60732244127009
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-TN:Untreated",82.0333333333336,-274.09319210448,438.159858771148,0.99999993375901
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-TN:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-TN:Untreated",79.5000000000003,-356.664135596469,515.664135596469,0.99999999968043
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-TN:Untreated",-59.3999999999997,-563.038962194963,444.238962194964,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-TN:Untreated",26.3000000000002,-639.951722265267,692.551722265268,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-TN:Untreated",-38.7999999999998,-705.051722265267,627.451722265268,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-TN:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-TN:Untreated",20.2400000000001,-353.268650947272,393.748650947272,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-TN:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-TN:Untreated",55.5000000000003,-380.664135596469,491.664135596469,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-TN:Untreated",-47.3999999999997,-483.564135596469,388.764135596469,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-TN:Untreated",23.3000000000002,-480.338962194963,526.938962194964,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-TN:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-TN:Untreated",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-TN:Untreated",71.1333333333338,-365.030802263135,507.297468929803,0.999999999977813
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:ASA-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CNTRL:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:ASA-JAK2 V617F:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-JAK2 V617F:ASA",-154.423333333333,-560.470045863472,251.623379196805,0.999082661958239
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-JAK2 V617F:ASA",145.61,-501.325960507184,792.545960507185,0.999999960157723
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-JAK2 V617F:ASA",212.61,-265.183871681856,690.403871681856,0.991404585253143
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-JAK2 V617F:ASA",-50.3566666666666,-368.885914454571,268.172581121237,0.999999999989662
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-JAK2 V617F:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-JAK2 V617F:ASA",-52.8899999999999,-458.936712530138,353.156712530139,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-JAK2 V617F:ASA",-191.79,-669.583871681856,286.003871681856,0.997924061607312
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-JAK2 V617F:ASA",-106.09,-753.025960507184,540.845960507184,0.999999999974633
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-JAK2 V617F:ASA",-171.19,-818.125960507184,475.745960507184,0.999998748498678
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-JAK2 V617F:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-JAK2 V617F:ASA",-112.15,-450.001286675616,225.701286675616,0.999904392198843
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-JAK2 V617F:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-JAK2 V617F:ASA",-76.8899999999999,-482.936712530138,329.156712530139,0.999999999216583
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:ASA",-179.79,-585.836712530138,226.256712530139,0.991938063748729
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:ASA",-109.09,-586.883871681856,368.703871681856,0.999999945421158
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-JAK2 V617F:ASA",-61.2566666666663,-467.303379196805,344.790045863472,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:ASA-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type I:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:ASA-CALR Type II:ASA",300.033333333334,-412.219717542294,1012.28638420896,0.995868918387597
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CALR Type II:ASA",367.033333333333,-196.052144459359,930.118811126026,0.698643272904211
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CALR Type II:ASA",104.066666666667,-332.097468929802,540.230802263136,0.999999857930215
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type II:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type II:ASA",101.533333333333,-402.10562886163,605.172295528297,0.999999996660826
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type II:ASA",-37.3666666666667,-600.452144459359,525.718811126026,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type II:ASA",48.3333333333333,-663.919717542295,760.586384208961,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type II:ASA",-16.7666666666667,-729.019717542295,695.486384208961,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type II:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type II:ASA",42.2733333333332,-408.195048900821,492.741715567487,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type II:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type II:ASA",77.5333333333334,-426.10562886163,581.172295528297,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type II:ASA",-25.3666666666667,-529.00562886163,478.272295528297,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type II:ASA",45.3333333333333,-517.752144459359,608.418811126026,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type II:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type II:ASA",93.1666666666669,-410.472295528297,596.805628861631,0.999999999547155
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:ASA-CALR Type_Other:ASA",66.9999999999998,-688.458443292446,822.458443292445,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-CALR Type_Other:ASA",-195.966666666667,-862.218388931934,470.2850555986,0.999989754480819
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-CALR Type_Other:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CALR Type_Other:ASA",-198.5,-910.753050875628,513.753050875628,0.999996435438599
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CALR Type_Other:ASA",-337.4,-1092.85844329245,418.058443292445,0.990990380254564
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type_Other:ASA",-251.7,-1124.02827119294,620.628271192938,0.999992937362545
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type_Other:ASA",-316.8,-1189.12827119294,555.528271192938,0.999560185236322
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type_Other:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type_Other:ASA",-257.76,-933.462573351232,417.942573351231,0.99903817638492
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type_Other:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type_Other:ASA",-222.5,-934.753050875628,489.753050875628,0.9999680836731
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type_Other:ASA",-325.4,-1037.65305087563,386.853050875628,0.988008979675934
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type_Other:ASA",-254.7,-1010.15844329245,500.758443292445,0.999874477566772
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type_Other:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type_Other:ASA",-206.866666666667,-919.119717542295,505.386384208961,0.999991974861804
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:ASA-MPL W515:ASA",-262.966666666667,-766.60562886163,240.672295528297,0.946766308763218
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-MPL W515:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-MPL W515:ASA",-265.5,-828.585477792693,297.585477792693,0.982426643081136
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-MPL W515:ASA",-404.4,-1021.22923598126,212.429235981264,0.688505551896278
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-MPL W515:ASA",-318.7,-1074.15844329245,436.758443292445,0.995784320743759
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-MPL W515:ASA",-383.8,-1139.25844329245,371.658443292445,0.959696109044883
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-MPL W515:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-MPL W515:ASA",-324.76,-840.836364943078,191.316364943078,0.756691139418499
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-MPL W515:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-MPL W515:ASA",-289.5,-852.585477792693,273.585477792693,0.954421389154849
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-MPL W515:ASA",-392.4,-955.485477792693,170.685477792693,0.573914077754181
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-MPL W515:ASA",-321.7,-938.529235981264,295.129235981264,0.947364972294315
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-MPL W515:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-MPL W515:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-MPL W515:ASA",-273.866666666666,-836.952144459359,289.218811126026,0.974866708827308
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:Anagrelide-TN:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-TN:ASA",-2.5333333333333,-438.697468929802,433.630802263136,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-TN:ASA",-141.433333333333,-645.072295528297,362.20562886163,0.999995853738656
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-TN:ASA",-55.7333333333334,-721.985055598601,610.518388931934,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-TN:ASA",-120.833333333333,-787.085055598601,545.418388931934,0.999999999715991
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-TN:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-TN:ASA",-61.7933333333335,-435.301984280605,311.715317613938,0.999999999968544
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-TN:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-TN:ASA",-26.5333333333333,-462.697468929802,409.630802263136,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-TN:ASA",-129.433333333333,-565.597468929802,306.730802263136,0.999987852438351
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-TN:ASA",-58.7333333333333,-562.372295528297,444.90562886163,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-TN:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-TN:ASA",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-TN:ASA",-10.8999999999997,-447.064135596469,425.264135596469,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:Anagrelide-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CNTRL:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:Anagrelide-JAK2 V617F:Anagrelide",-138.9,-701.985477792693,424.185477792693,0.999999710489142
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-JAK2 V617F:Anagrelide",-53.2000000000001,-765.453050875628,659.053050875628,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-JAK2 V617F:Anagrelide",-118.3,-830.553050875628,593.953050875628,0.999999999965372
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-JAK2 V617F:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-JAK2 V617F:Anagrelide",-59.2600000000002,-509.728382234154,391.208382234154,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-JAK2 V617F:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-JAK2 V617F:Anagrelide",-24,-527.638962194964,479.638962194964,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:Anagrelide",-126.9,-630.538962194964,376.738962194964,0.999999546970559
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:Anagrelide",-56.2,-619.285477792693,506.885477792693,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-JAK2 V617F:Anagrelide",-8.36666666666645,-512.00562886163,495.272295528297,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:Anagrelide-CALR Type I:Anagrelide",85.6999999999999,-669.758443292445,841.158443292445,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type I:Anagrelide",20.6,-734.858443292445,776.058443292445,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type I:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type I:Anagrelide",79.6399999999999,-436.436364943078,595.716364943078,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type I:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type I:Anagrelide",114.9,-448.185477792693,677.985477792693,0.999999995595041
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type I:Anagrelide",12,-551.085477792693,575.085477792693,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type I:Anagrelide",82.7,-534.129235981264,699.529235981264,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type I:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type I:Anagrelide",130.533333333334,-432.552144459359,693.618811126026,0.999999923899899
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:Anagrelide-CALR Type II:Anagrelide",-65.1,-937.428271192938,807.228271192938,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type II:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type II:Anagrelide",-6.06000000000006,-681.762573351231,669.642573351231,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type II:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type II:Anagrelide",29.2000000000001,-683.053050875628,741.453050875628,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type II:Anagrelide",-73.6999999999999,-785.953050875628,638.553050875628,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type II:Anagrelide",-2.99999999999994,-758.458443292445,752.458443292446,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type II:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type II:Anagrelide",44.8333333333337,-667.419717542294,757.086384208962,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:Anagrelide-CALR Type_Other:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-CALR Type_Other:Anagrelide",59.0399999999999,-616.662573351231,734.742573351231,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-CALR Type_Other:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CALR Type_Other:Anagrelide",94.3000000000001,-617.953050875628,806.553050875628,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CALR Type_Other:Anagrelide",-8.59999999999997,-720.853050875628,703.653050875628,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type_Other:Anagrelide",62.1,-693.358443292445,817.558443292445,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type_Other:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type_Other:Anagrelide",109.933333333334,-602.319717542294,822.186384208962,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:Anagrelide-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-MPL W515:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CNTRL:HU-TN:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-TN:Anagrelide",35.2600000000002,-415.208382234154,485.728382234154,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-TN:Anagrelide",-67.6399999999999,-518.108382234154,382.828382234154,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-TN:Anagrelide",3.06000000000012,-513.016364943078,519.136364943078,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-TN:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-TN:Anagrelide",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-TN:Anagrelide",50.8933333333337,-399.57504890082,501.361715567488,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","JAK2 V617F:HU-CNTRL:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-CNTRL:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CNTRL:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CNTRL:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CNTRL:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CNTRL:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type I:HU-JAK2 V617F:HU",-102.9,-606.538962194964,400.738962194964,0.999999995465698
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-JAK2 V617F:HU",-32.2,-595.285477792693,530.885477792693,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-JAK2 V617F:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-JAK2 V617F:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-JAK2 V617F:HU",15.6333333333336,-488.00562886163,519.272295528297,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type II:HU-CALR Type I:HU",70.7,-492.385477792693,633.785477792693,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type I:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type I:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type I:HU",118.533333333334,-385.10562886163,622.172295528297,0.99999989426463
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","CALR Type_Other:HU-CALR Type II:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type II:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type II:HU",47.8333333333336,-515.252144459359,610.918811126026,1
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","MPL W515:HU-CALR Type_Other:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-CALR Type_Other:HU",,,,
+"markers","CENTRE_ATNCONMPL","GPVI","ok_aliased",73,"Genotype:Treatment","TN:HU-MPL W515:HU",,,,

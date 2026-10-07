@@ -1,0 +1,11 @@
+"panel","variant","group","Treatment","level","n"
+"aggregation","CENTRE_A","Gender","Untreated","(missing)",1
+"aggregation","CENTRE_A","Gender","Untreated","M",10
+"aggregation","CENTRE_A","Gender","Untreated","F",18
+"aggregation","CENTRE_A","Gender","ASA","M",5
+"aggregation","CENTRE_A","Gender","ASA","F",18
+"aggregation","CENTRE_A","Gender","Anagrelide","M",5
+"aggregation","CENTRE_A","Gender","Anagrelide","F",7
+"aggregation","CENTRE_A","Gender","HU","(missing)",1
+"aggregation","CENTRE_A","Gender","HU","M",5
+"aggregation","CENTRE_A","Gender","HU","F",5

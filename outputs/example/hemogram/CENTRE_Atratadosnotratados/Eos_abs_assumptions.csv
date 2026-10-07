@@ -1,0 +1,3 @@
+"panel","variant","measure","status","n","test","statistic","p_value","note"
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","ok",73,"shapiro_residuals",0.957743617275783,0.0154629178170753,""
+"hemogram","CENTRE_Atratadosnotratados","Eos..10.6.ml.","ok",73,"levene_cells",1.33231699750653,0.249605325739368,""

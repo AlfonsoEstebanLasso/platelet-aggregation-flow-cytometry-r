@@ -1,0 +1,811 @@
+"panel","variant","measure","Genotype","Treatment","n","below_min"
+"aggregation","CENTRE_A","PMA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_A","PMA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","PMA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","PMA","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","PMA","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","PMA","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","PMA","JAK2 V617F","ASA",9,FALSE
+"aggregation","CENTRE_A","PMA","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type II","ASA",2,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","PMA","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_A","PMA","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","PMA","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","PMA","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","PMA","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","PMA","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","PMA","TN","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","PMA","VARIANT","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","PMA","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","PMA","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","PMA","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","PMA","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","PMA","TN","HU",2,TRUE
+"aggregation","CENTRE_A","PMA","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","CVX","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_A","CVX","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","CVX","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","CVX","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","CVX","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","CVX","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","CVX","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_A","CVX","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","CVX","MPL W515","ASA",2,TRUE
+"aggregation","CENTRE_A","CVX","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","CVX","VARIANT","ASA",1,TRUE
+"aggregation","CENTRE_A","CVX","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","CVX","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","CVX","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","CVX","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","CVX","VARIANT","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","CVX","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","CVX","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type I","HU",2,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","CVX","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","CVX","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","CVX","TN","HU",2,TRUE
+"aggregation","CENTRE_A","CVX","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","RISTO","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_A","RISTO","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","RISTO","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","RISTO","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","RISTO","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","RISTO","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","RISTO","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_A","RISTO","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type II","ASA",2,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","RISTO","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_A","RISTO","TN","ASA",3,TRUE
+"aggregation","CENTRE_A","RISTO","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","RISTO","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","RISTO","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type I","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","RISTO","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","RISTO","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","RISTO","VARIANT","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","RISTO","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","RISTO","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","RISTO","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","RISTO","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","RISTO","TN","HU",2,TRUE
+"aggregation","CENTRE_A","RISTO","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","AGGA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_A","AGGA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","AGGA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","AGGA","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","AGGA","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","AGGA","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","AGGA","JAK2 V617F","ASA",9,FALSE
+"aggregation","CENTRE_A","AGGA","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","AGGA","MPL W515","ASA",2,TRUE
+"aggregation","CENTRE_A","AGGA","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","AGGA","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","AGGA","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","AGGA","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type_Other","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","AGGA","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","AGGA","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","AGGA","VARIANT","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","AGGA","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","AGGA","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","AGGA","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","AGGA","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","AGGA","TN","HU",2,TRUE
+"aggregation","CENTRE_A","AGGA","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","COL","CNTRL","Untreated",12,FALSE
+"aggregation","CENTRE_A","COL","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","COL","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","COL","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","COL","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","COL","MPL W515","Untreated",1,TRUE
+"aggregation","CENTRE_A","COL","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","COL","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","COL","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","COL","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_A","COL","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","COL","CALR Type II","ASA",2,TRUE
+"aggregation","CENTRE_A","COL","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","COL","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_A","COL","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","COL","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","COL","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","COL","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","COL","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","COL","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","COL","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","COL","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","COL","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","COL","VARIANT","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","COL","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","COL","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","COL","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","COL","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","COL","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","COL","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","COL","TN","HU",2,TRUE
+"aggregation","CENTRE_A","COL","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","TRAP","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_A","TRAP","JAK2 V617F","Untreated",0,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","TRAP","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","TRAP","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","TRAP","VARIANT","Untreated",0,TRUE
+"aggregation","CENTRE_A","TRAP","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","TRAP","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_A","TRAP","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","TRAP","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_A","TRAP","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","TRAP","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","TRAP","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","TRAP","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","TRAP","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","TRAP","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","TRAP","VARIANT","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","TRAP","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","TRAP","JAK2 V617F","HU",2,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","TRAP","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","TRAP","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","TRAP","TN","HU",2,TRUE
+"aggregation","CENTRE_A","TRAP","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","VARIANT","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","TN","HU",2,TRUE
+"aggregation","CENTRE_A","UNSTIMULATED.10min","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","Time.0min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_A","Time.0min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","Time.0min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","Time.0min","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","Time.0min","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","Time.0min","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","Time.0min","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_A","Time.0min","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","Time.0min","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_A","Time.0min","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","Time.0min","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","Time.0min","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","Time.0min","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","Time.0min","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","Time.0min","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","Time.0min","VARIANT","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","Time.0min","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","Time.0min","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","Time.0min","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","Time.0min","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","Time.0min","TN","HU",2,TRUE
+"aggregation","CENTRE_A","Time.0min","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","TN","Untreated",6,FALSE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","TN","ASA",4,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","VARIANT","ASA",2,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","TN","Anagrelide",2,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","VARIANT","Anagrelide",3,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","TN","HU",2,TRUE
+"aggregation","CENTRE_A","UNS.Time.10min.vs.Time.0","VARIANT","HU",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_Atratadosnotratados","PMA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","PMA","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","JAK2 V617F","Treated",15,FALSE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CALR Type II","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","PMA","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_Atratadosnotratados","PMA","TN","Treated",7,FALSE
+"aggregation","CENTRE_Atratadosnotratados","PMA","VARIANT","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_Atratadosnotratados","CVX","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","CVX","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CALR Type I","Treated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","CVX","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","MPL W515","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","CVX","TN","Treated",8,FALSE
+"aggregation","CENTRE_Atratadosnotratados","CVX","VARIANT","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CALR Type I","Treated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CALR Type II","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","TN","Treated",7,FALSE
+"aggregation","CENTRE_Atratadosnotratados","RISTO","VARIANT","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","JAK2 V617F","Treated",15,FALSE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","CALR Type_Other","Treated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","MPL W515","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","TN","Treated",8,FALSE
+"aggregation","CENTRE_Atratadosnotratados","AGGA","VARIANT","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","COL","CNTRL","Untreated",12,FALSE
+"aggregation","CENTRE_Atratadosnotratados","COL","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","MPL W515","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","COL","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_Atratadosnotratados","COL","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","COL","CALR Type II","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","COL","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_Atratadosnotratados","COL","TN","Treated",8,FALSE
+"aggregation","CENTRE_Atratadosnotratados","COL","VARIANT","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","JAK2 V617F","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","VARIANT","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","JAK2 V617F","Treated",15,FALSE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","TN","Treated",8,FALSE
+"aggregation","CENTRE_Atratadosnotratados","TRAP","VARIANT","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","TN","Treated",8,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNSTIMULATED.10min","VARIANT","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","TN","Treated",8,FALSE
+"aggregation","CENTRE_Atratadosnotratados","Time.0min","VARIANT","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","TN","Untreated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","VARIANT","Untreated",1,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","TN","Treated",8,FALSE
+"aggregation","CENTRE_Atratadosnotratados","UNS.Time.10min.vs.Time.0","VARIANT","Treated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","JAK2 V617F","Treated",15,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CALR Type II","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","PMA","TN","Treated",13,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CALR Type I","Treated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","MPL W515","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","CVX","TN","Treated",13,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CALR Type I","Treated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CALR Type II","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","RISTO","TN","Treated",12,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","JAK2 V617F","Treated",15,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","CALR Type_Other","Treated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","MPL W515","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","AGGA","TN","Treated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CNTRL","Untreated",12,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","MPL W515","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CALR Type II","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","COL","TN","Treated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","JAK2 V617F","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","TN","Untreated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","JAK2 V617F","Treated",15,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","TRAP","TN","Treated",13,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNSTIMULATED.10min","TN","Treated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","Time.0min","TN","Treated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","TN","Untreated",7,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CNTRL","Treated",0,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","JAK2 V617F","Treated",16,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CALR Type I","Treated",5,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CALR Type II","Treated",6,FALSE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","CALR Type_Other","Treated",2,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","MPL W515","Treated",3,TRUE
+"aggregation","CENTRE_AtratadosnotratadosMPLCONTN","UNS.Time.10min.vs.Time.0","TN","Treated",14,FALSE
+"aggregation","CENTRE_ATNCONMPL","PMA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_ATNCONMPL","PMA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","PMA","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","JAK2 V617F","ASA",9,FALSE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type II","ASA",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","TN","ASA",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","PMA","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","TN","Anagrelide",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","PMA","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_ATNCONMPL","CVX","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","CVX","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","MPL W515","ASA",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","TN","ASA",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","CVX","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","TN","Anagrelide",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","CVX","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type I","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","CVX","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_ATNCONMPL","RISTO","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type II","ASA",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","TN","ASA",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type I","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","TN","Anagrelide",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","RISTO","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CNTRL","Untreated",13,FALSE
+"aggregation","CENTRE_ATNCONMPL","AGGA","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","JAK2 V617F","ASA",9,FALSE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","MPL W515","ASA",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","TN","ASA",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type_Other","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","TN","Anagrelide",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","AGGA","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CNTRL","Untreated",12,FALSE
+"aggregation","CENTRE_ATNCONMPL","COL","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","MPL W515","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","COL","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type II","ASA",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","TN","ASA",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","COL","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","TN","Anagrelide",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","COL","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","COL","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_ATNCONMPL","TRAP","JAK2 V617F","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","TN","Untreated",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","TN","ASA",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","TN","Anagrelide",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","JAK2 V617F","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","TRAP","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","TN","ASA",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","TN","Anagrelide",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNSTIMULATED.10min","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","TN","ASA",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","TN","Anagrelide",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","Time.0min","TN","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CNTRL","Untreated",14,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","JAK2 V617F","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type I","Untreated",4,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type II","Untreated",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type_Other","Untreated",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","MPL W515","Untreated",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","TN","Untreated",7,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CNTRL","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","JAK2 V617F","ASA",10,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type I","ASA",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type II","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type_Other","ASA",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","MPL W515","ASA",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","TN","ASA",6,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CNTRL","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","JAK2 V617F","Anagrelide",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type I","Anagrelide",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type II","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type_Other","Anagrelide",1,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","MPL W515","Anagrelide",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","TN","Anagrelide",5,FALSE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CNTRL","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","JAK2 V617F","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type I","HU",3,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type II","HU",2,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","CALR Type_Other","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","MPL W515","HU",0,TRUE
+"aggregation","CENTRE_ATNCONMPL","UNS.Time.10min.vs.Time.0","TN","HU",3,TRUE
